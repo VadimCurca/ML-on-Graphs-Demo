@@ -30,7 +30,7 @@ from utils.utils import *
 
 # ---
 
-cached_subreddits = {"hardware" : "graphsHardware.txt", "food" : "graphsFood.txt"}
+cached_subreddits = {"hardware" : "resources/graphsHardware.txt", "food" : "resources/graphsFood.txt"}
 
 def get_reddit():
     client_id = '8Ara-tL3whPJTKSzuLe0Wg'
