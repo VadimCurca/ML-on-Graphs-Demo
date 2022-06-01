@@ -16,6 +16,7 @@ from sklearn.model_selection import train_test_split
 
 import itertools
 import copy
+from io import BytesIO
 
 from sklearn.metrics import roc_auc_score
 from sklearn.linear_model import LogisticRegression
@@ -31,8 +32,7 @@ from utils.utils import *
 
 cached_subreddits = {"hardware" : "graphsHardware.txt", "food" : "graphsFood.txt"}
 
-@st.cache(suppress_st_warning=True, allow_output_mutation=True)
-def get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load):
+def get_reddit():
     client_id = '8Ara-tL3whPJTKSzuLe0Wg'
     client_secret = '5ciIZ_875ywNSWHWY7S4QcaimF788g'
     user_agent = '<console:IC_proiect:1.0>'
@@ -40,11 +40,30 @@ def get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load):
     reddit = praw.Reddit(client_id = client_id,
                         client_secret = client_secret,
                         user_agent = user_agent)
+    return reddit
+
+
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+def get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load):
+    reddit = get_reddit()
 
     st.write("Cache miss: expensive_computation ")
 
     subreddit = reddit.subreddit(subreddit_name)
     return get_graphs_indices_from_subreddit(subreddit, number_posts_to_load)
+
+
+@st.cache(suppress_st_warning=True, allow_output_mutation=True)
+def get_graph_from_post_url(post_url):
+    reddit = get_reddit()
+
+    submission = reddit.submission(url = post_url)
+    G = nx.Graph()
+
+    nodes, edges = get_graph_indices_from_submission(submission)
+    G.add_edges_from(edges)
+    G.add_nodes_from(nodes)
+    return G
 
 
 def col_content(key):
@@ -58,6 +77,8 @@ def col_content(key):
         default_subreddit_name = "food"
 
     subreddit_name = st.text_input('Subreddit name', default_subreddit_name, key=key)
+    st.session_state["subreddit_name" + str(key)] = subreddit_name
+
     cached_graphs = False
     if subreddit_name in cached_subreddits:
         cached_graphs = st.checkbox('Use cached graphs', value=True, key=key)
@@ -158,8 +179,29 @@ if st.session_state["first_run1"] == False and st.session_state["first_run2"] ==
         score = st.session_state["downstream_model_score"]
         st.write("test score: ", score)
 
+        st.markdown("### Post prediction")
+
+        post_url = st.text_input('Post url', 'https://www.reddit.com/r/hardware/comments/v0g640/phison_demos_m22580_pcie_50_x4_ssd_up_to_12gbps/')
+        G = get_graph_from_post_url(post_url)
+
+        fig = plt.figure(figsize = (15, 15))
+        # plt.title(titles[post_number])
+        nx.draw_kamada_kawai(G, with_labels=True, width = .5)
+        # st.pyplot(fig)
+
+        buf = BytesIO()
+        fig.savefig(buf, format="png")
+        st.image(buf, width=700)
 
 
+        model = st.session_state["model"]
+        downstream_model = st.session_state["downstream_model"]
 
+        G_fit = copy.deepcopy(G)
+        model.fit([G_fit])
+        X_eval = model.get_embedding()
 
-        
+        y_pred_proba = downstream_model.predict_proba(X_eval)
+        y_pred = np.argmax(y_pred_proba)
+
+        st.write('Post is class \"', st.session_state["subreddit_name"+str(y_pred+1)], '\" with probability ', y_pred_proba[0][y_pred])
