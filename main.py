@@ -37,8 +37,7 @@ def get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load):
     st.write("Cache miss: expensive_computation ")
 
     subreddit = reddit.subreddit(subreddit_name)
-    graphs = get_graphs_indices_from_subreddit(subreddit, number_posts_to_load)
-    return graphs
+    return get_graphs_indices_from_subreddit(subreddit, number_posts_to_load)
 
 
 def col_content(key):
@@ -64,11 +63,13 @@ def col_content(key):
         st.session_state[graph_str] = get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load)
 
     if st.session_state[first_run_str] == False:
-        post_number = st.number_input('Which post to show', 0, key=key)
+        G, titles = st.session_state[graph_str]
 
-        G = st.session_state[graph_str]
+        post_number = st.number_input('Which post to show', value=1, min_value=1, max_value=len(G), key=key)
+        post_number -= 1
 
         fig = plt.figure(figsize = (15, 15))
+        plt.title(titles[post_number])
         nx.draw_kamada_kawai(G[post_number], with_labels=True, width = .5)
         st.pyplot(fig)
 
