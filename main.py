@@ -184,16 +184,6 @@ if st.session_state["first_run1"] == False and st.session_state["first_run2"] ==
         post_url = st.text_input('Post url', 'https://www.reddit.com/r/hardware/comments/v0g640/phison_demos_m22580_pcie_50_x4_ssd_up_to_12gbps/')
         G = get_graph_from_post_url(post_url)
 
-        fig = plt.figure(figsize = (15, 15))
-        # plt.title(titles[post_number])
-        nx.draw_kamada_kawai(G, with_labels=True, width = .5)
-        # st.pyplot(fig)
-
-        buf = BytesIO()
-        fig.savefig(buf, format="png")
-        st.image(buf, width=700)
-
-
         model = st.session_state["model"]
         downstream_model = st.session_state["downstream_model"]
 
@@ -204,4 +194,11 @@ if st.session_state["first_run1"] == False and st.session_state["first_run2"] ==
         y_pred_proba = downstream_model.predict_proba(X_eval)
         y_pred = np.argmax(y_pred_proba)
 
-        st.write('Post is class \"', st.session_state["subreddit_name"+str(y_pred+1)], '\" with probability ', y_pred_proba[0][y_pred])
+        st.write('Post class is \"', st.session_state["subreddit_name"+str(y_pred+1)], '\" with probability ', y_pred_proba[0][y_pred])
+
+        fig = plt.figure(figsize = (15, 15))
+        nx.draw_kamada_kawai(G, with_labels=True, width = .5)
+
+        buf = BytesIO()
+        fig.savefig(buf, format="png")
+        st.image(buf, width=700)
