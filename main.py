@@ -84,7 +84,7 @@ def col_content(key):
         cached_graphs = st.checkbox('Use cached graphs', value=True, key=key)
 
     if not cached_graphs:
-        number_posts_to_load = st.number_input('Number of posts to load', int(5), key=key)
+        number_posts_to_load = st.number_input('Number of posts to load', value=int(5), min_value=0, max_value=3000, key=key)
 
     if st.button('Load graphs', key=key):
         st.session_state[first_run_str] = False
