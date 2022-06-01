@@ -1,6 +1,7 @@
 import praw
 import itertools
 import networkx as nx
+import re
 
 from praw.models import MoreComments
 
@@ -24,6 +25,36 @@ def get_graphs_indices_from_subreddit(subreddit, limit=1):
         list_graphs.append(G)
         list_titles.append(submission.title)
     return list_graphs, list_titles
+
+def get_graphs_from_file(file_name):
+    graphs = []
+    titles = []
+
+    with open(file_name, 'r') as f:
+        number_of_graphs_str = f.readline()
+        number_of_graphs = int(re.findall('\d+', number_of_graphs_str)[0])
+
+        for graphs_idx in range(number_of_graphs):
+            title = f.readline().strip()
+
+            G = nx.Graph()
+
+            line = f.readline()
+            number_of_nodes = int(re.findall('\d+', line)[0])
+            line = f.readline()
+            number_of_edges = int(re.findall('\d+', line)[0])
+
+            G.add_nodes_from(list(range(number_of_nodes)))
+
+            for edges_idx in range(number_of_edges):
+                line = f.readline()
+                edge_lst = re.findall('\d+', line)
+
+                G.add_edge(int(edge_lst[0]), int(edge_lst[1]))
+
+            graphs.append(G)
+            titles.append(title)
+    return graphs, titles
 
 def get_authors_from_comments(comment_list):
     return list(comment.author for comment in comment_list if comment.author != None)

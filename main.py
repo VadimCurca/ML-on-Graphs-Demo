@@ -25,6 +25,8 @@ from utils.utils import *
 
 # ---
 
+cached_subreddits = {"hardware" : "graphsHardware.txt", "food" : "graphsFood.txt"}
+
 @st.cache(suppress_st_warning=True, allow_output_mutation=True)
 def get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load):
     client_id = '8Ara-tL3whPJTKSzuLe0Wg'
@@ -52,7 +54,12 @@ def col_content(key):
         default_subreddit_name = "food"
 
     subreddit_name = st.text_input('Subreddit name', default_subreddit_name, key=key)
-    number_posts_to_load = st.number_input('Number of posts to load', int(2), key=key)
+    cached_graphs = False
+    if subreddit_name in cached_subreddits:
+        cached_graphs = st.checkbox('Use cached graphs', value=True, key=key)
+
+    if not cached_graphs:
+        number_posts_to_load = st.number_input('Number of posts to load', int(5), key=key)
 
     if first_run_str not in st.session_state:
         st.session_state[first_run_str] = True
@@ -61,7 +68,12 @@ def col_content(key):
 
     if st.button('Load graphs', key=key):
         st.session_state[first_run_str] = False
-        st.session_state[graph_str] = get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load)
+
+        if(not cached_graphs):
+            st.session_state[graph_str] = get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load)
+        else:
+            file_name = cached_subreddits[subreddit_name]
+            st.session_state[graph_str] = get_graphs_from_file(file_name)
 
     if st.session_state[first_run_str] == False:
         graphs, titles = st.session_state[graph_str]

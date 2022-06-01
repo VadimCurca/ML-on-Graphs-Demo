@@ -1,0 +1,8868 @@
+number of graphs: 867
+title: [homemade] I made a focaccia
+number of nodes: 414
+number of edges: 422
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 92)
+(0, 93)
+(0, 94)
+(0, 95)
+(0, 96)
+(0, 97)
+(0, 98)
+(0, 99)
+(0, 100)
+(0, 101)
+(0, 102)
+(0, 103)
+(0, 104)
+(0, 105)
+(0, 106)
+(0, 107)
+(0, 108)
+(0, 109)
+(0, 110)
+(0, 111)
+(0, 112)
+(0, 113)
+(0, 114)
+(0, 115)
+(0, 116)
+(0, 117)
+(0, 118)
+(0, 119)
+(0, 120)
+(0, 121)
+(0, 122)
+(0, 123)
+(0, 124)
+(0, 125)
+(0, 126)
+(0, 127)
+(0, 128)
+(0, 129)
+(0, 130)
+(0, 131)
+(0, 132)
+(0, 133)
+(0, 134)
+(0, 135)
+(0, 136)
+(0, 137)
+(0, 138)
+(0, 139)
+(0, 140)
+(0, 141)
+(0, 142)
+(0, 143)
+(0, 144)
+(0, 145)
+(0, 146)
+(0, 147)
+(0, 148)
+(0, 149)
+(0, 150)
+(0, 151)
+(0, 152)
+(0, 153)
+(0, 154)
+(0, 155)
+(0, 156)
+(0, 157)
+(0, 158)
+(0, 159)
+(0, 160)
+(0, 161)
+(0, 162)
+(0, 163)
+(0, 164)
+(0, 165)
+(0, 166)
+(0, 167)
+(0, 168)
+(0, 169)
+(0, 170)
+(0, 171)
+(0, 172)
+(0, 173)
+(0, 174)
+(0, 175)
+(0, 176)
+(0, 177)
+(0, 178)
+(0, 179)
+(0, 180)
+(0, 181)
+(0, 182)
+(0, 183)
+(0, 184)
+(0, 185)
+(0, 186)
+(0, 187)
+(0, 188)
+(0, 189)
+(0, 190)
+(0, 191)
+(0, 192)
+(0, 193)
+(0, 194)
+(0, 195)
+(0, 196)
+(0, 197)
+(0, 198)
+(0, 199)
+(0, 200)
+(0, 201)
+(0, 202)
+(0, 203)
+(0, 204)
+(0, 205)
+(0, 206)
+(0, 207)
+(0, 208)
+(0, 209)
+(0, 210)
+(0, 211)
+(0, 212)
+(0, 213)
+(0, 214)
+(0, 215)
+(0, 216)
+(0, 217)
+(0, 218)
+(0, 219)
+(0, 220)
+(0, 221)
+(0, 222)
+(0, 223)
+(0, 224)
+(0, 225)
+(0, 226)
+(0, 227)
+(0, 228)
+(0, 229)
+(0, 230)
+(0, 231)
+(0, 232)
+(0, 233)
+(0, 234)
+(0, 235)
+(0, 236)
+(0, 237)
+(0, 238)
+(0, 239)
+(0, 240)
+(0, 241)
+(0, 242)
+(0, 243)
+(0, 244)
+(0, 245)
+(0, 246)
+(0, 247)
+(0, 248)
+(0, 249)
+(0, 250)
+(0, 251)
+(0, 252)
+(0, 253)
+(0, 254)
+(0, 255)
+(0, 256)
+(0, 257)
+(0, 258)
+(0, 259)
+(0, 260)
+(0, 261)
+(0, 262)
+(0, 263)
+(0, 264)
+(0, 265)
+(0, 266)
+(0, 267)
+(0, 268)
+(0, 269)
+(0, 270)
+(0, 271)
+(0, 272)
+(0, 273)
+(0, 274)
+(0, 275)
+(0, 276)
+(0, 277)
+(0, 278)
+(0, 279)
+(0, 280)
+(0, 281)
+(0, 282)
+(0, 283)
+(0, 284)
+(0, 285)
+(0, 286)
+(0, 287)
+(0, 288)
+(0, 289)
+(0, 290)
+(0, 291)
+(0, 292)
+(0, 293)
+(0, 294)
+(0, 295)
+(0, 296)
+(0, 297)
+(0, 298)
+(0, 299)
+(0, 300)
+(0, 301)
+(0, 302)
+(0, 303)
+(0, 304)
+(0, 305)
+(0, 306)
+(0, 307)
+(0, 308)
+(0, 309)
+(0, 310)
+(0, 311)
+(0, 312)
+(0, 313)
+(0, 314)
+(0, 315)
+(0, 316)
+(0, 317)
+(0, 318)
+(0, 319)
+(0, 320)
+(0, 321)
+(0, 322)
+(0, 323)
+(0, 324)
+(0, 325)
+(0, 326)
+(0, 327)
+(0, 328)
+(0, 329)
+(0, 330)
+(0, 355)
+(0, 356)
+(0, 357)
+(0, 358)
+(0, 359)
+(0, 360)
+(0, 361)
+(0, 362)
+(0, 367)
+(0, 368)
+(0, 369)
+(0, 370)
+(0, 371)
+(0, 372)
+(0, 373)
+(0, 374)
+(0, 375)
+(0, 351)
+(0, 379)
+(0, 376)
+(0, 380)
+(0, 394)
+(0, 395)
+(0, 396)
+(0, 397)
+(0, 398)
+(2, 331)
+(3, 332)
+(3, 333)
+(3, 334)
+(3, 335)
+(3, 336)
+(3, 337)
+(3, 338)
+(5, 339)
+(5, 340)
+(5, 341)
+(5, 342)
+(5, 343)
+(5, 344)
+(9, 345)
+(9, 181)
+(9, 346)
+(11, 347)
+(11, 348)
+(14, 349)
+(15, 350)
+(54, 351)
+(58, 352)
+(71, 353)
+(122, 360)
+(202, 378)
+(208, 345)
+(309, 354)
+(332, 362)
+(334, 363)
+(335, 364)
+(336, 365)
+(338, 366)
+(345, 376)
+(346, 377)
+(352, 378)
+(355, 380)
+(355, 399)
+(355, 397)
+(358, 381)
+(359, 382)
+(360, 383)
+(363, 384)
+(363, 385)
+(365, 386)
+(366, 387)
+(367, 388)
+(369, 389)
+(376, 390)
+(378, 391)
+(379, 392)
+(382, 393)
+(393, 400)
+(396, 401)
+(396, 402)
+(399, 403)
+(401, 404)
+(402, 405)
+(403, 406)
+(403, 407)
+(404, 408)
+(404, 409)
+(404, 412)
+(408, 410)
+(410, 411)
+(412, 413)
+title: [homemade] My fish sandwich. Snapper, avocado, pickled red onion, alfalfa, heirloom tomato, ciabatta, Mayo. Olive oil.
+number of nodes: 118
+number of edges: 119
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 107)
+(0, 103)
+(1, 75)
+(1, 76)
+(1, 77)
+(1, 78)
+(1, 79)
+(2, 80)
+(2, 81)
+(2, 82)
+(3, 83)
+(3, 84)
+(3, 85)
+(3, 86)
+(3, 63)
+(4, 87)
+(4, 88)
+(4, 89)
+(4, 90)
+(4, 91)
+(5, 92)
+(6, 93)
+(10, 48)
+(37, 94)
+(73, 95)
+(75, 96)
+(77, 97)
+(81, 98)
+(82, 99)
+(83, 100)
+(83, 115)
+(84, 101)
+(84, 102)
+(84, 116)
+(85, 103)
+(85, 104)
+(87, 105)
+(93, 106)
+(94, 108)
+(97, 110)
+(98, 111)
+(100, 112)
+(105, 113)
+(105, 114)
+(116, 117)
+title: [I Ate] Chicago Deep Dish Pizza
+number of nodes: 102
+number of edges: 101
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 87)
+(1, 50)
+(1, 51)
+(1, 52)
+(1, 53)
+(1, 54)
+(1, 55)
+(1, 56)
+(1, 57)
+(1, 12)
+(1, 92)
+(1, 79)
+(2, 58)
+(6, 59)
+(6, 60)
+(6, 61)
+(7, 9)
+(7, 83)
+(7, 84)
+(9, 62)
+(14, 63)
+(15, 64)
+(15, 65)
+(15, 66)
+(15, 67)
+(15, 68)
+(15, 69)
+(17, 70)
+(50, 71)
+(50, 72)
+(50, 64)
+(50, 73)
+(50, 74)
+(51, 75)
+(51, 76)
+(51, 77)
+(51, 78)
+(53, 79)
+(58, 80)
+(61, 81)
+(62, 82)
+(64, 69)
+(64, 91)
+(65, 85)
+(65, 86)
+(83, 93)
+(85, 94)
+(85, 95)
+(86, 96)
+(91, 97)
+(91, 98)
+(91, 92)
+title: [homemade] strawberry pie with Swiss butter cream
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Poundcake french toast, scrambled eggs, and bacon
+number of nodes: 33
+number of edges: 32
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(1, 23)
+(1, 24)
+(2, 25)
+(7, 26)
+(8, 27)
+(9, 28)
+(21, 32)
+(23, 29)
+(24, 30)
+(28, 31)
+title: [homemade] Strawberry Shortcake Cake
+number of nodes: 10
+number of edges: 10
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(1, 9)
+title: [HOMEMADE] Lemon Pepper Chicken
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Unagi Picnic Bento
+number of nodes: 15
+number of edges: 14
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(1, 12)
+(2, 13)
+(7, 14)
+title: [i ate] swedish meatballs
+number of nodes: 280
+number of edges: 310
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 92)
+(0, 93)
+(0, 94)
+(0, 95)
+(0, 96)
+(0, 97)
+(0, 98)
+(0, 99)
+(0, 100)
+(0, 101)
+(0, 102)
+(0, 103)
+(0, 104)
+(0, 105)
+(0, 106)
+(0, 107)
+(0, 108)
+(0, 109)
+(0, 110)
+(0, 111)
+(0, 112)
+(0, 113)
+(0, 114)
+(0, 115)
+(0, 116)
+(0, 117)
+(0, 118)
+(0, 119)
+(0, 120)
+(0, 121)
+(0, 122)
+(0, 123)
+(0, 124)
+(0, 125)
+(0, 126)
+(0, 127)
+(0, 128)
+(0, 178)
+(0, 179)
+(0, 180)
+(0, 181)
+(0, 182)
+(0, 183)
+(0, 184)
+(0, 185)
+(0, 186)
+(0, 187)
+(0, 188)
+(0, 189)
+(0, 167)
+(0, 129)
+(0, 198)
+(0, 222)
+(1, 129)
+(1, 130)
+(1, 131)
+(1, 132)
+(1, 133)
+(1, 134)
+(1, 135)
+(1, 136)
+(1, 137)
+(1, 210)
+(1, 174)
+(1, 211)
+(1, 212)
+(1, 213)
+(1, 214)
+(1, 215)
+(1, 216)
+(1, 217)
+(2, 138)
+(2, 139)
+(2, 198)
+(2, 248)
+(2, 273)
+(3, 140)
+(3, 141)
+(3, 142)
+(3, 143)
+(3, 144)
+(3, 145)
+(3, 146)
+(3, 147)
+(3, 148)
+(6, 149)
+(6, 150)
+(6, 151)
+(6, 145)
+(7, 152)
+(8, 153)
+(8, 154)
+(8, 155)
+(9, 156)
+(9, 150)
+(10, 157)
+(10, 158)
+(14, 159)
+(14, 160)
+(14, 31)
+(15, 161)
+(15, 162)
+(15, 163)
+(15, 164)
+(15, 158)
+(18, 165)
+(35, 152)
+(36, 166)
+(39, 167)
+(41, 168)
+(42, 169)
+(47, 170)
+(48, 171)
+(48, 190)
+(49, 174)
+(57, 172)
+(57, 244)
+(57, 245)
+(57, 174)
+(57, 268)
+(57, 208)
+(68, 173)
+(98, 158)
+(98, 174)
+(98, 177)
+(98, 260)
+(101, 175)
+(104, 176)
+(129, 190)
+(129, 174)
+(129, 191)
+(129, 192)
+(129, 172)
+(129, 247)
+(134, 193)
+(138, 194)
+(138, 195)
+(140, 196)
+(141, 197)
+(141, 271)
+(141, 272)
+(141, 277)
+(150, 163)
+(150, 221)
+(156, 171)
+(157, 199)
+(157, 200)
+(157, 249)
+(158, 164)
+(158, 165)
+(158, 228)
+(160, 201)
+(161, 202)
+(162, 203)
+(171, 250)
+(172, 240)
+(172, 267)
+(174, 208)
+(174, 236)
+(174, 237)
+(174, 238)
+(174, 239)
+(174, 190)
+(174, 264)
+(174, 265)
+(174, 266)
+(174, 278)
+(175, 199)
+(178, 218)
+(180, 219)
+(180, 220)
+(181, 221)
+(181, 257)
+(190, 223)
+(194, 224)
+(196, 225)
+(197, 226)
+(197, 227)
+(197, 277)
+(205, 204)
+(207, 206)
+(207, 209)
+(210, 229)
+(210, 230)
+(210, 231)
+(210, 232)
+(210, 233)
+(210, 234)
+(210, 235)
+(210, 253)
+(214, 240)
+(214, 241)
+(215, 242)
+(219, 243)
+(221, 244)
+(221, 245)
+(221, 246)
+(221, 269)
+(229, 251)
+(229, 252)
+(229, 253)
+(231, 254)
+(236, 241)
+(236, 247)
+(237, 255)
+(240, 252)
+(242, 256)
+(246, 257)
+(246, 258)
+(246, 259)
+(251, 261)
+(252, 262)
+(252, 253)
+(253, 263)
+(257, 270)
+(261, 274)
+(262, 275)
+(264, 276)
+(277, 279)
+title: [homemade] Spaghetti with meatballs
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Hot Honey Pepperoni Pizza Focaccia
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(5, 6)
+(5, 7)
+title: [Homemade] NY-style Kenji Pizza.
+number of nodes: 5
+number of edges: 5
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+(3, 4)
+title: [i ate] pizza bianca with arugula
+number of nodes: 1
+number of edges: 0
+title: [homemade] tacos x beef stew.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Redwine braised short ribs over creamy polenta!
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [I ate] local smoked food
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] sourdough pizza
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I Ate] Wonton Soup
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Koshari, the national dish of Egypt
+number of nodes: 16
+number of edges: 15
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 15)
+(4, 14)
+title: [homemade] Apple Walnut Basalmic Fig Salad
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Easy Fried Garlic Shrimp
+number of nodes: 4
+number of edges: 4
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Orange chicken
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Dragon brownies
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [Homemade] Eggs Benedict
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Smoked Beef Ribs
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+title: [Homemade] Italian Antipasta Charcuterie Board!
+number of nodes: 19
+number of edges: 20
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 14)
+(1, 13)
+(4, 14)
+(4, 15)
+(4, 16)
+(5, 16)
+(8, 17)
+(13, 18)
+title: [i ate] homemade burger
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] Mexican Street Corn Salad
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] roasted chicken
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Cobb Salad!
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] avocado ice-cream
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [Homemade] I made beetroot risotto with seared scallops and feta cheese.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I Ate] Kimbap
+number of nodes: 9
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(6, 8)
+title: [homemade] buns and patties
+number of nodes: 1
+number of edges: 0
+title: [I ate] Salmon fillet in Lemon Butter
+number of nodes: 1
+number of edges: 0
+title: [i ate] Unagi and Shrimp Tempura Bowl
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Hot sauce and chicken wings. I marinated the chicken wings in the hot sauce overnight, and fried them today. Hot sauce recipe in the replies.
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [homemade] Fried rice and General Tso's chicken.
+number of nodes: 1
+number of edges: 0
+title: [Homemade] This strawberry cake.
+number of nodes: 8
+number of edges: 9
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 0)
+(3, 7)
+(3, 6)
+title: [homemade] Baked eggs with tomatoes, basil and mozzarella with garlic croutons.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Burger on pretzel bun
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] macaroni pasta and meat balls.
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Dirty Dog
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Choy sum, fried egg, jasmine rice, homemade fragrant chili oil
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [Homemade] Hainanese Chicken with Spicy Soy Garlic Sauce and Ginger Scallion Sauce
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I Ate] Tandoori Chicken Grill
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [I ate] pork knuckle
+number of nodes: 10
+number of edges: 9
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 8)
+(5, 7)
+(8, 9)
+title: [Homemade] Spicy Smashburger
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Cornmeal Batter Baked Hogfish
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Pulled Pork
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: Cast Iron Pan Pizza [Homemade]
+number of nodes: 61
+number of edges: 60
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 56)
+(0, 57)
+(0, 58)
+(6, 46)
+(51, 54)
+(54, 55)
+(54, 59)
+(54, 60)
+title: [homemade] tres leches cake and fresh strawberries
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Carnitas Tacos with Roasted Tomatillo Salsa!
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [homemade] beef tacos.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Italian seafood soup
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I Ate] Shrimp Broth Tantanmen with a pinch of gold leaf
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [homemade] Breakfast Pizza
+number of nodes: 3
+number of edges: 3
+(0, 0)
+(0, 1)
+(1, 2)
+title: [homemade] Sauteed mushrooms with melted cheese on top, poached egg and sliced tomatoes. Breakfast in bed for my wife
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Casual surf and turf with sweet potato fries
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] chilaquilles
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Taco salad with homemade pico de gallo (you can’t really see the jalapeños or onion in the photo)
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chorizo Wrapped Chicken with Pan Fried Potatoes
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Butter Chicken and Naan Bread
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Pan Pizza
+number of nodes: 1
+number of edges: 0
+title: [homemade] chicken souvlaki pita gyro sanwhiches
+number of nodes: 1
+number of edges: 0
+title: [homemade] Vietnamese Steak and Watercress salad
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Chicken parm
+number of nodes: 1
+number of edges: 0
+title: [homemade] Jerk burger
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Bourbon bacon jam, double smash burger
+number of nodes: 9
+number of edges: 9
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+title: [Homemade] 12inch Le Trianon ou Royale
+number of nodes: 1
+number of edges: 0
+title: [HOMEMADE] Breakfast burrito
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] pasta
+number of nodes: 1
+number of edges: 0
+title: [I Ate] Strawberry Mascarpone stuffed French Toast
+number of nodes: 1
+number of edges: 0
+title: [homemade] Canadian maple syrup
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Chocolate cheesecake
+number of nodes: 5
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 0)
+(0, 3)
+(0, 4)
+title: [homemade] monster cupcakes
+number of nodes: 13
+number of edges: 12
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(3, 12)
+title: [I ate] Burger w/ pineapple salsa, cheddar, cilantro lime aioli, crispy onions
+number of nodes: 1
+number of edges: 0
+title: [i ate] Hickory Smoked S’mores Latte
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade]. baked potato balls cheese, bacon, and onions. one has ground up hamburgers in it
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: Some messy corn [homemade]
+number of nodes: 40
+number of edges: 42
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(3, 27)
+(4, 28)
+(4, 11)
+(5, 29)
+(5, 30)
+(7, 31)
+(7, 32)
+(11, 14)
+(11, 36)
+(13, 33)
+(13, 34)
+(31, 35)
+(33, 36)
+(36, 37)
+(36, 38)
+(36, 39)
+title: [Homemade] Double Double-Double Cheeseburgers
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(3, 4)
+title: [Homemade] Still making my Jalapeño dust. Red and Green.
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] Chocolate Cheesecake!
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Cajun Glazed Grilled Cobia
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Chowmein.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [i ate] pogacha
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Kafta, Shish Taouk, and grilled asparagus and broccolini
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] carrot cake cupcakes
+number of nodes: 9
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+title: [I ate] DKA - Dominique’s Kouign Amann
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Mango Habanero Chicken
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 0)
+title: [I Ate] Fish Tacos
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Pork chop on macaroni with a mushroom sauce with peas and herbs
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 3)
+title: [homemade] Brisket burnt ends
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(3, 6)
+(4, 7)
+title: [Homemade] Ratatouille
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Roast Chicken and Vegetables
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [I ate] Cookie dough filled pancakes.
+number of nodes: 10
+number of edges: 9
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(1, 7)
+(1, 8)
+(1, 9)
+title: [homemade] Mini muffins with rhubarb compote
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Salmon + Sriracha Sauce, Garlic Bok Choy, Avocado, Spicy Cucumber, Ginger and White Rice.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Duck Confit with bacon jam,fondant potatoes and pecan roasted green beans.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Taiwanese beef noodle soup
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Chocolate Marble Cheesecake
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] air fryer Maryland salmon cake
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [I ate] Okonomiyaki, a popular Japanese pan fried savory pancake dish consisting of wheat flour batter, cabbage, yakisoba, bacon, egg, beef and bonito cooked on a teppan.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade]Beef Tenderloin w/ Morel Sauce
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Grilled venison steak with caramelized onions and mushrooms finished with white wine, and seared asparagus seasoned with lemon pepper
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] a chocolate-ish cake
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] pesto pasta with marinated cherry tomatoes
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Spicy panko-crusted porkchop experiment
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] air fried char siu pork and white rice
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] matured prime rib and Galicia prime rib
+number of nodes: 1
+number of edges: 0
+title: [homemade] Chicken Rice Sauced up Two Ways
+number of nodes: 3
+number of edges: 3
+(0, 0)
+(0, 1)
+(0, 2)
+title: [Homemade] Turkey tater tot hot dish
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [Homemade] Deep-fried, skin-on whole pork belly on a bed of fried apple & onion
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Miso Ramen with Pork Belly
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Cherry Pie
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [Homemade] Creamy parmesan garlic mushroom chicken with mashed potatoes.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] chocolate and toffee cookies.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: Bacon Cheeseburger [Homemade]
+number of nodes: 252
+number of edges: 257
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 92)
+(0, 93)
+(0, 94)
+(0, 95)
+(0, 96)
+(0, 97)
+(0, 98)
+(0, 99)
+(0, 100)
+(0, 101)
+(0, 102)
+(0, 103)
+(0, 104)
+(0, 105)
+(0, 106)
+(0, 107)
+(0, 108)
+(0, 109)
+(0, 110)
+(0, 111)
+(0, 112)
+(0, 113)
+(0, 114)
+(0, 115)
+(0, 116)
+(0, 117)
+(0, 118)
+(0, 119)
+(0, 120)
+(0, 121)
+(0, 122)
+(0, 123)
+(0, 124)
+(0, 125)
+(0, 126)
+(0, 127)
+(0, 128)
+(0, 129)
+(0, 130)
+(0, 131)
+(0, 132)
+(0, 133)
+(0, 134)
+(0, 135)
+(0, 136)
+(0, 137)
+(0, 138)
+(0, 139)
+(0, 140)
+(0, 141)
+(0, 142)
+(0, 143)
+(0, 144)
+(0, 145)
+(0, 146)
+(0, 147)
+(0, 148)
+(0, 149)
+(0, 150)
+(0, 151)
+(0, 152)
+(0, 153)
+(0, 154)
+(0, 155)
+(0, 156)
+(0, 157)
+(0, 158)
+(0, 169)
+(0, 218)
+(0, 237)
+(0, 250)
+(0, 251)
+(1, 118)
+(2, 159)
+(2, 160)
+(2, 161)
+(2, 162)
+(2, 163)
+(2, 164)
+(2, 165)
+(3, 166)
+(3, 167)
+(3, 168)
+(4, 230)
+(6, 169)
+(6, 69)
+(6, 170)
+(6, 166)
+(6, 171)
+(7, 172)
+(8, 202)
+(8, 233)
+(8, 244)
+(11, 18)
+(11, 62)
+(11, 173)
+(11, 174)
+(11, 231)
+(12, 175)
+(18, 27)
+(27, 176)
+(29, 177)
+(41, 178)
+(42, 179)
+(63, 174)
+(65, 160)
+(79, 174)
+(86, 189)
+(86, 229)
+(99, 180)
+(110, 183)
+(112, 195)
+(115, 195)
+(118, 182)
+(127, 181)
+(159, 183)
+(159, 184)
+(160, 185)
+(160, 186)
+(160, 187)
+(160, 188)
+(160, 189)
+(160, 190)
+(160, 191)
+(160, 192)
+(160, 193)
+(160, 194)
+(163, 181)
+(166, 167)
+(173, 195)
+(174, 179)
+(177, 214)
+(183, 221)
+(183, 247)
+(183, 248)
+(183, 249)
+(184, 222)
+(186, 223)
+(186, 224)
+(187, 225)
+(187, 226)
+(188, 227)
+(188, 228)
+(192, 229)
+(195, 229)
+(202, 201)
+(201, 232)
+(208, 206)
+(208, 207)
+(212, 210)
+(212, 211)
+(210, 234)
+(211, 219)
+(214, 213)
+(216, 215)
+(223, 235)
+(224, 236)
+(224, 237)
+(224, 238)
+(224, 239)
+(225, 240)
+(228, 241)
+(228, 240)
+(231, 242)
+(233, 244)
+(204, 245)
+title: [homemade] dulce de leche brownies
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] margherita pizza
+number of nodes: 1
+number of edges: 0
+title: [homemade] charcuterie board.
+number of nodes: 20
+number of edges: 20
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(1, 16)
+(1, 10)
+(1, 17)
+(9, 18)
+(16, 19)
+title: [homemade] Grilled Turkey Sausage with Sautéed Bell Peppers, Onions, & Mushrooms, and Cheese Sauce in a Pretzel Bun.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Chicken teriyaki in pineapple bowls
+number of nodes: 1
+number of edges: 0
+title: [homemade] east meets west grand slam breakfast
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] deep dish pizza
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] smoked beef cheeks burgers
+number of nodes: 1
+number of edges: 0
+title: [homemade] Ice cream float with Coke Starlight and Mackinac Island fudge swirl ice cream. I call it the Supernova
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Minestrone
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Roast chicken and Brussel Sprouts
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] chicken katsu and furikake rice with egg
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Korean Cheese Katsu
+number of nodes: 15
+number of edges: 14
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(8, 14)
+(10, 13)
+title: [homemade] chocolate butterscotch pecan cookies
+number of nodes: 1
+number of edges: 0
+title: [i ate] sausage waffles (like sausage is INSIDE the waffles)
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(2, 6)
+(4, 7)
+title: [I ate] roasted Oysters
+number of nodes: 1
+number of edges: 0
+title: [homemade] Bo Ssam
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] salsa with ghost peppers
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+title: [Homemade] Fresh morel cream sauce, spaezle and schnitzel
+number of nodes: 12
+number of edges: 11
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+title: [homemade] Detroit style pizza with pepperoni, chorizo, and serrano peppers
+number of nodes: 83
+number of edges: 90
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 58)
+(0, 81)
+(0, 78)
+(1, 57)
+(1, 58)
+(1, 82)
+(2, 59)
+(3, 57)
+(3, 60)
+(3, 61)
+(3, 62)
+(3, 63)
+(3, 64)
+(3, 65)
+(3, 66)
+(4, 67)
+(4, 68)
+(4, 69)
+(4, 80)
+(9, 70)
+(16, 71)
+(46, 72)
+(46, 73)
+(57, 74)
+(57, 75)
+(59, 76)
+(59, 77)
+(60, 64)
+(61, 65)
+(64, 78)
+(64, 66)
+(66, 78)
+(66, 79)
+(67, 80)
+title: [Homemade] Beer basted brats, onion and potatoes while camping
+number of nodes: 6
+number of edges: 6
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+(0, 4)
+(1, 5)
+title: [homemade] Skillet Pizza
+number of nodes: 3
+number of edges: 3
+(0, 1)
+(0, 0)
+(0, 2)
+title: [I ate] Cheese Steak Hoagie with French Fries
+number of nodes: 7
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(1, 6)
+(3, 6)
+title: [Homemade] Chickpea and Beetroot curry with Bhature on the side
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] collard greens with white beans
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Quinoa Bowl - Quinoa, Tomato, Roasted Mushroom, Roasted Corn, Cucumber, Bell Peppers, Olives, Cilantro, Toasted Coconut Milk Curds, Lemon Ranch Sauce, Queso, and Toasted Corn Tortilla Strips.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Grilled Jerk Tofu with Spicy Chickpeas, Grilled Pineapple, Grape Tomatoes, and Cilantro
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Cheesy Garlic Bread
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [I ate] instant noodles
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Japanese beef with rice and an edamame salad
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Cake Slices
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [Homemade] Shrimp Tempura
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] Boquerones with anchovy butter crostinis
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Prawn, Chicken, Fried Tofu, Malaysian Laksa…
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] boneless chicken breast, asparagus, mashed potatoes and brioche rolls
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chicken bacon pepper jack melt
+number of nodes: 5
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(2, 2)
+title: [homemade] Cheese bread
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Grilled Turkey Sausage with Sautéed Bell Peppers & Onions, Honey Mustard, and Sriracha Ketchup in a Whole Wheat Bun.
+number of nodes: 1
+number of edges: 0
+title: [I Ate] Gorditas & Potatoes
+number of nodes: 1
+number of edges: 0
+title: [i ate] pao with salted egg and sweet sauced pork filling
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Pea and Cannellini Soup with Little Pasta
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Hickory & Apple Wood Smoked Baby Back Ribs.
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] cannoli
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] Vanilla cupcakes with raspberry icing
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [Homemade] Banana, strawberry waffle with chocolate and cream
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Copycat Chi-Chi’s Mexican Pizza
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] Korean Fried Chicken
+number of nodes: 1
+number of edges: 0
+title: [pro/chef] Misoyaki Butterfish.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Smoked chuck roast
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Musubi. Glaze on the spam is soy sauce : mirin : sugar = 2 : 1 : 1
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [i ate] Boxed Mac N' Cheese
+number of nodes: 156
+number of edges: 174
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 92)
+(0, 136)
+(1, 93)
+(1, 47)
+(1, 94)
+(1, 95)
+(1, 96)
+(1, 97)
+(2, 98)
+(2, 94)
+(2, 99)
+(2, 33)
+(2, 100)
+(4, 101)
+(4, 102)
+(4, 103)
+(4, 104)
+(4, 24)
+(4, 105)
+(4, 106)
+(4, 107)
+(4, 108)
+(4, 109)
+(4, 149)
+(5, 110)
+(5, 111)
+(5, 112)
+(5, 113)
+(5, 81)
+(5, 114)
+(5, 115)
+(5, 116)
+(5, 117)
+(5, 95)
+(6, 118)
+(6, 119)
+(6, 120)
+(7, 81)
+(9, 121)
+(9, 122)
+(10, 109)
+(14, 123)
+(14, 124)
+(14, 152)
+(16, 125)
+(18, 126)
+(36, 127)
+(42, 122)
+(49, 128)
+(49, 129)
+(62, 130)
+(63, 125)
+(70, 115)
+(74, 131)
+(77, 98)
+(94, 135)
+(95, 132)
+(98, 133)
+(98, 134)
+(100, 137)
+(100, 138)
+(102, 139)
+(109, 119)
+(109, 146)
+(109, 144)
+(109, 153)
+(110, 140)
+(110, 141)
+(110, 111)
+(110, 150)
+(110, 154)
+(111, 115)
+(113, 115)
+(114, 115)
+(118, 142)
+(119, 143)
+(122, 144)
+(122, 145)
+(133, 147)
+(137, 148)
+(140, 150)
+(145, 151)
+(153, 155)
+title: [homemade] breakfast, whole wheat raspberry yogurt muffins
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Memorial Day Pizza - Sausage/Pep and Cheese
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [I ate] Pan fried porkchop with sliced peppers and onions
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Smoked Brisket, Pickled Red Onion, Horseradish Crema, Texas Style BBQ Sauce, Crispy Jalapenos on White Bread
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] lemon roll cake
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] BBQ Spareribs w/ Texas Style Sauce
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] I made a kobeburger with caramelized onions, avocado and a homemade jalapeno sauce and some veggies
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [i ate] sushi set
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] ragu with fresh basil leaves
+number of nodes: 1
+number of edges: 0
+title: [Homemade]Reverse Sear Prime Rib
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(3, 5)
+title: [i ate] duck confit
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Grilled chicken, broccolini, asparagus, portobello cap stuffed with cherry tomatoes, and little potatoes.
+number of nodes: 1
+number of edges: 0
+title: [homemade] pork belly burnt ends
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Chilli Chicken Ramen
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Cheddar Crackers.
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [homemade] pulled pork and focaccia
+number of nodes: 1
+number of edges: 0
+title: [homemade] Ribeye steak with baked asparagus and Prosciutto, with a side of modified honey bbq
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Reverse seared lamb chops, rustic mashed potatoes, roasted vegetables
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Beetroot, radish, apple, walnuts & blue cheese salad
+number of nodes: 1
+number of edges: 0
+title: [I Ate] Tomato Salad with Blue Cheese, Basil, and Vinaigrette Dressing
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Fennel bouillabaisse
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [homemade] Spaghetti with avocado, almonds and basil sauce
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Shrimp Rougaille Stew on Jasmine Rice with Sichuan Cucumber Salad
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Sweet Cole slaw and steamed artichokes
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] Pork Ribs
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Iranian Chelo Kebab
+number of nodes: 6
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(1, 4)
+title: [Homemade] Low country shrimp boil for two
+number of nodes: 27
+number of edges: 28
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(1, 17)
+(2, 18)
+(2, 19)
+(2, 20)
+(5, 21)
+(9, 16)
+(16, 24)
+(16, 22)
+(16, 25)
+(16, 26)
+(18, 22)
+(18, 23)
+title: [Homemade] "Dahlias". Vanilla bean cheesecake, vanilla praliné, mango-pineapple coulis, vanilla reduction, mascarpone Chantilly, mango "pollen", ruby chocolate petals.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] A bacon cheeseburger and fries.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Tempura
+number of nodes: 1
+number of edges: 0
+title: [i ate] strawberry soufflé pancakes
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Ramen with leftover steak and broth
+number of nodes: 1
+number of edges: 0
+title: [I ate] jellyfish tropical salad
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(1, 3)
+(1, 4)
+title: [Homemade] Applewood Smoked Ribs
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Rigatoni Carbonara
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] white bean and kale soup.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] chicken parmigiana and red sauce spaghetti with caesar salad - everything from scratch but the noodles.
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [I Ate] Double beef & Bacon Burger and Chicken Wings
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Spaghetti with ground beef, mash potatoes,sausage & butter bread.
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [pro/chef] homemade sausage rolls
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] Poke bowl
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Chocolate Buttermilk cake from Clair Saffitz
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] - Nachos
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Toast with strawberry jam
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Samosa with Apple Mango Chutney
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Burrata with sticky roasted tomatoes, pine nuts & basil with rosemary & olive bread.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Ribs right off the smoker
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [homemade] Frenche Coffee Cake
+number of nodes: 6
+number of edges: 6
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] Butter tarts, raisin free!
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade]baked chicken breast, kale greens, parmesean breaded baked squash, and garlic toast on sourdough
+number of nodes: 1
+number of edges: 0
+title: [homemade] Yesterday’s Pizza with mushrooms.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Galaxy cake
+number of nodes: 21
+number of edges: 21
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 0)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+title: [homemade] double chocolate muffins
+number of nodes: 3
+number of edges: 3
+(0, 0)
+(0, 1)
+(0, 2)
+title: [I ate] Iberico and Manchego Bocadillo
+number of nodes: 13
+number of edges: 13
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 11)
+(6, 10)
+(10, 12)
+(11, 11)
+title: [Homemade] Baked pasta pizza pie with a decadent tacobell medium hot sauce. Repost for spelling error.
+number of nodes: 1
+number of edges: 0
+title: [homemade] caramelized onion tart with homemade ricotta
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] stir fried arrowroot glass noodle with eel and vegetables.
+number of nodes: 1
+number of edges: 0
+title: [i ate] I got some Japanese snacks.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Whole fish and mashed pumpkin
+number of nodes: 1
+number of edges: 0
+title: [homemade] fried pickles.
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] pepperoni pizza
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [I ate]Cheesefries with Bacon!
+number of nodes: 13
+number of edges: 13
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 0)
+(0, 9)
+(0, 10)
+(6, 11)
+(11, 12)
+title: [Homemade] Ramen with Duckbreast
+number of nodes: 9
+number of edges: 9
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 0)
+(0, 8)
+(1, 7)
+title: [Homemade] Italian Style Chicken Sandwiches with Whipped Ricotta, Pesto and Caramelized Onions
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [i ate] a lime cake
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] steamed mantis shrimps
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Sweet tamari glaze over baby bok choy and king oyster mushrooms in a garlic ginger soy sauce.
+number of nodes: 1
+number of edges: 0
+title: [I Ate] Japanese Fish-shaped Cake (Taiyaki)
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: NY Strip topped with bacon, morels and a pan sauce. With a asparagus tart [homemade]
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Keith Haring inspired cake
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [I ate] some incredible pork tacos
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Beach themed Cakesicles
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Satay Ayam & Nasi Goreng (Indonesian marinated & coal grilled chicken w. fried rice)
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [HOMEMADE] sushi roll
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Matcha Pancakes w/ Matcha Syrup
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] chicken salad
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] beef Wellington
+number of nodes: 7
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(1, 3)
+(3, 5)
+(5, 6)
+title: [Homemade] roast beef panini
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: Common dish from Costa Rica: chicken with garbanzo beans [homemade]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: Brisket Bacon Cheeseburger [homemade]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] ribeye start to finish!
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Smash burger,made the buns too
+number of nodes: 12
+number of edges: 12
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 0)
+(0, 11)
+title: [Homemade] Chinese Smashed Cucumbers made with Black Vinegar
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [I ate] beef, rice, salad and homemade bread
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Yellow Thai Coconut Curry
+number of nodes: 3
+number of edges: 3
+(0, 0)
+(0, 1)
+(0, 2)
+title: [homemade] Paella
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+title: [homemade]I made sheet pan sliders with Hawaiian bread
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Chicken Breasts w/White Wine & Dijon Pan Sauce
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Bacon Cheeseburger
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Bacon wrapped jalapeños, stuffed with Cotija cheese and quail meat.
+number of nodes: 11
+number of edges: 10
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(4, 9)
+(4, 10)
+title: Avocado Bacon Cilantro Black Truffle [homemade]
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(3, 4)
+title: [I ate] Reese’s Pieces Cheesecake
+number of nodes: 1
+number of edges: 0
+title: [homemade] ribs.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] mashed potato fries
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [homemade] Birthday chocolate minecraft cake
+number of nodes: 1
+number of edges: 0
+title: [Homemade] "The Cauliflower’s Cumin from Inside the House Burger"
+number of nodes: 10
+number of edges: 9
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(8, 9)
+title: [homemade] sourdough
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [Homemade] - Tuna Tataki
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] a S’mores popsicle
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Potato Wedges
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: BBQ Cheeseburger [Homemade]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] BBQ Chicken & Bacon Pizza
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: Galbi with sesame roasted veggies. [Homemade]
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Steak and tots
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Raspberry, pistachio and roasted white chocolate cake
+number of nodes: 16
+number of edges: 15
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+title: [I Ate] Philly Steak Sub, Mac n’ Cheese, Fried Chicken Sandwich
+number of nodes: 506
+number of edges: 550
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 0)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 92)
+(0, 93)
+(0, 94)
+(0, 95)
+(0, 96)
+(0, 97)
+(0, 98)
+(0, 99)
+(0, 100)
+(0, 101)
+(0, 102)
+(0, 103)
+(0, 104)
+(0, 105)
+(0, 106)
+(0, 107)
+(0, 108)
+(0, 109)
+(0, 110)
+(0, 111)
+(0, 112)
+(0, 113)
+(0, 114)
+(0, 115)
+(0, 116)
+(0, 117)
+(0, 118)
+(0, 119)
+(0, 120)
+(0, 121)
+(0, 122)
+(0, 123)
+(0, 124)
+(0, 125)
+(0, 126)
+(0, 127)
+(0, 128)
+(0, 129)
+(0, 130)
+(0, 131)
+(0, 132)
+(0, 133)
+(0, 134)
+(0, 135)
+(0, 136)
+(0, 137)
+(0, 138)
+(0, 139)
+(0, 140)
+(0, 141)
+(0, 142)
+(0, 143)
+(0, 144)
+(0, 145)
+(0, 146)
+(0, 147)
+(0, 148)
+(0, 149)
+(0, 150)
+(0, 151)
+(0, 152)
+(0, 153)
+(0, 154)
+(0, 155)
+(0, 156)
+(0, 157)
+(0, 158)
+(0, 159)
+(0, 160)
+(0, 161)
+(0, 162)
+(0, 163)
+(0, 164)
+(0, 165)
+(0, 166)
+(0, 167)
+(0, 168)
+(0, 169)
+(0, 170)
+(0, 171)
+(0, 172)
+(0, 173)
+(0, 174)
+(0, 175)
+(0, 176)
+(0, 177)
+(0, 178)
+(0, 179)
+(0, 180)
+(0, 181)
+(0, 182)
+(0, 183)
+(0, 184)
+(0, 185)
+(0, 186)
+(0, 187)
+(0, 188)
+(0, 189)
+(0, 190)
+(0, 191)
+(0, 192)
+(0, 193)
+(0, 194)
+(0, 195)
+(0, 196)
+(0, 197)
+(0, 198)
+(0, 199)
+(0, 200)
+(0, 201)
+(0, 202)
+(0, 203)
+(0, 204)
+(0, 205)
+(0, 206)
+(0, 207)
+(0, 208)
+(0, 209)
+(0, 210)
+(0, 211)
+(0, 212)
+(0, 213)
+(0, 214)
+(0, 215)
+(0, 216)
+(0, 217)
+(0, 218)
+(0, 219)
+(0, 220)
+(0, 221)
+(0, 222)
+(0, 223)
+(0, 224)
+(0, 225)
+(0, 226)
+(0, 227)
+(0, 228)
+(0, 229)
+(0, 230)
+(0, 231)
+(0, 232)
+(0, 233)
+(0, 234)
+(0, 235)
+(0, 236)
+(0, 237)
+(0, 238)
+(0, 239)
+(0, 240)
+(0, 241)
+(0, 242)
+(0, 243)
+(0, 244)
+(0, 245)
+(0, 246)
+(0, 247)
+(0, 248)
+(0, 249)
+(0, 250)
+(0, 251)
+(0, 252)
+(0, 253)
+(0, 254)
+(0, 255)
+(0, 256)
+(0, 257)
+(0, 258)
+(0, 259)
+(0, 260)
+(0, 261)
+(0, 262)
+(0, 263)
+(0, 264)
+(0, 265)
+(0, 266)
+(0, 267)
+(0, 268)
+(0, 269)
+(0, 270)
+(0, 271)
+(0, 272)
+(0, 273)
+(0, 274)
+(0, 275)
+(0, 276)
+(0, 277)
+(0, 278)
+(0, 279)
+(0, 280)
+(0, 281)
+(0, 282)
+(0, 283)
+(0, 284)
+(0, 285)
+(0, 286)
+(0, 287)
+(0, 288)
+(0, 289)
+(0, 290)
+(0, 291)
+(0, 292)
+(0, 293)
+(0, 294)
+(0, 352)
+(0, 353)
+(0, 354)
+(0, 296)
+(0, 320)
+(1, 295)
+(1, 296)
+(1, 297)
+(1, 298)
+(1, 299)
+(1, 300)
+(1, 301)
+(1, 419)
+(2, 302)
+(2, 303)
+(2, 304)
+(2, 305)
+(2, 306)
+(2, 307)
+(2, 308)
+(2, 309)
+(2, 310)
+(2, 311)
+(2, 312)
+(2, 297)
+(2, 313)
+(2, 314)
+(2, 315)
+(2, 316)
+(2, 317)
+(2, 318)
+(3, 319)
+(3, 320)
+(3, 321)
+(4, 322)
+(4, 323)
+(4, 324)
+(4, 325)
+(4, 326)
+(4, 327)
+(5, 328)
+(5, 329)
+(5, 330)
+(5, 331)
+(5, 332)
+(5, 322)
+(5, 333)
+(5, 334)
+(5, 335)
+(5, 297)
+(5, 336)
+(5, 337)
+(6, 338)
+(7, 339)
+(7, 340)
+(8, 341)
+(8, 342)
+(8, 343)
+(8, 344)
+(8, 309)
+(8, 345)
+(8, 346)
+(8, 347)
+(8, 348)
+(8, 349)
+(8, 350)
+(9, 351)
+(11, 37)
+(13, 355)
+(14, 356)
+(19, 357)
+(20, 358)
+(20, 359)
+(20, 360)
+(20, 361)
+(27, 90)
+(28, 362)
+(39, 363)
+(44, 111)
+(48, 364)
+(85, 365)
+(86, 322)
+(91, 345)
+(98, 366)
+(103, 354)
+(182, 375)
+(182, 218)
+(182, 189)
+(182, 471)
+(184, 328)
+(184, 452)
+(184, 349)
+(193, 367)
+(207, 368)
+(218, 494)
+(269, 369)
+(273, 366)
+(274, 370)
+(295, 371)
+(295, 372)
+(296, 373)
+(296, 374)
+(296, 375)
+(296, 376)
+(296, 377)
+(296, 378)
+(297, 416)
+(298, 392)
+(302, 379)
+(302, 380)
+(303, 381)
+(303, 382)
+(303, 383)
+(303, 384)
+(304, 385)
+(304, 386)
+(304, 387)
+(304, 388)
+(304, 389)
+(304, 390)
+(304, 391)
+(304, 474)
+(304, 475)
+(304, 501)
+(305, 392)
+(305, 393)
+(308, 394)
+(309, 395)
+(309, 396)
+(311, 397)
+(318, 398)
+(319, 399)
+(319, 400)
+(319, 338)
+(320, 401)
+(320, 402)
+(320, 344)
+(320, 403)
+(321, 404)
+(322, 405)
+(322, 406)
+(322, 418)
+(322, 419)
+(325, 407)
+(328, 408)
+(328, 409)
+(329, 410)
+(329, 487)
+(330, 411)
+(330, 412)
+(330, 413)
+(330, 414)
+(331, 415)
+(331, 416)
+(332, 417)
+(333, 401)
+(333, 482)
+(334, 420)
+(334, 336)
+(335, 421)
+(335, 487)
+(335, 456)
+(338, 422)
+(338, 373)
+(338, 401)
+(338, 469)
+(338, 481)
+(342, 423)
+(342, 424)
+(342, 425)
+(343, 426)
+(343, 408)
+(343, 434)
+(343, 484)
+(343, 485)
+(343, 486)
+(345, 427)
+(348, 428)
+(349, 452)
+(352, 429)
+(353, 430)
+(353, 435)
+(354, 404)
+(356, 431)
+(358, 432)
+(359, 433)
+(362, 434)
+(362, 460)
+(362, 464)
+(363, 435)
+(366, 411)
+(366, 435)
+(373, 436)
+(375, 437)
+(375, 438)
+(375, 439)
+(375, 440)
+(377, 441)
+(377, 442)
+(380, 443)
+(381, 444)
+(381, 445)
+(382, 446)
+(382, 447)
+(388, 447)
+(388, 448)
+(392, 464)
+(392, 466)
+(398, 449)
+(402, 450)
+(402, 451)
+(412, 418)
+(413, 453)
+(413, 454)
+(414, 455)
+(414, 456)
+(423, 457)
+(423, 489)
+(424, 458)
+(431, 459)
+(434, 460)
+(434, 461)
+(434, 462)
+(434, 463)
+(434, 464)
+(435, 465)
+(435, 466)
+(435, 467)
+(436, 468)
+(437, 470)
+(438, 472)
+(443, 473)
+(447, 476)
+(447, 477)
+(447, 478)
+(447, 479)
+(447, 480)
+(447, 502)
+(447, 503)
+(447, 504)
+(447, 505)
+(450, 483)
+(457, 488)
+(457, 489)
+(457, 490)
+(458, 491)
+(463, 492)
+(468, 470)
+(472, 495)
+(474, 496)
+(477, 497)
+(477, 498)
+(485, 499)
+(488, 500)
+(497, 504)
+title: [homemade] pagnotta bread rolls
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] vanilla bean, brown sugar, cinnamon, pistachio
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Inside-out grilled cheese
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade]AL Pastor Tacos
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Overloaded Garlic Zucchini, Mushrooms and Snow Peas
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: Ramen [homemade]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Smoked spatchcock cornish hen.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Birria tacos: braised short ribs and Chuck roast with queso quesadilla and a side of lime cilantro coleslaw.
+number of nodes: 1
+number of edges: 0
+title: [homemade] Watermelon salsa.
+number of nodes: 8
+number of edges: 8
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(3, 7)
+title: [Homemade] Pizza
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Bibimbap - with Marinated Beef Strips, Crispy Chicken Skin "Chips", and Pork Belly
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Vietnamese Crawfish Boil
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Carbonara
+number of nodes: 1
+number of edges: 0
+title: [homemade] chicken and chorizo paella. Added some Middle Eastern spices for a different kick. Cooked over fire in the big green egg
+number of nodes: 9
+number of edges: 10
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 0)
+(0, 7)
+(6, 7)
+(7, 8)
+title: [I Ate] Pizza with a twist.
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(1, 6)
+title: [homemade] taco salad
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Fish and Chips
+number of nodes: 95
+number of edges: 106
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 63)
+(0, 71)
+(0, 69)
+(0, 87)
+(0, 92)
+(0, 93)
+(1, 57)
+(3, 58)
+(3, 59)
+(4, 60)
+(6, 61)
+(7, 62)
+(10, 63)
+(11, 64)
+(11, 65)
+(13, 66)
+(14, 67)
+(14, 68)
+(15, 68)
+(28, 69)
+(28, 72)
+(33, 70)
+(35, 68)
+(38, 71)
+(45, 72)
+(56, 73)
+(58, 68)
+(62, 77)
+(62, 71)
+(63, 78)
+(63, 79)
+(64, 80)
+(64, 81)
+(65, 82)
+(68, 83)
+(68, 84)
+(68, 85)
+(70, 71)
+(71, 77)
+(71, 78)
+(71, 86)
+(73, 83)
+(82, 87)
+(84, 88)
+(84, 89)
+(88, 94)
+(91, 90)
+title: [Homemade] Panna Cotta
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chicken rice bowl with tahini/ginger dressing
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(1, 1)
+title: [Homemade] Nashville Hot Chicken Sandwiches
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] apple pie
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [Homemade] Gnocchi & marinara w. Roasted eggplant
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Reverse seared prime rib
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] fried ice cream I think
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [homemade] Pizza Margherita
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(2, 3)
+title: [homemade] barbacoa tacos with elotes off the cob
+number of nodes: 1
+number of edges: 0
+title: [homemade] Chicken Sandwich
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Austrian Semmel Bread
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [i ate] Zoo Siab Meal - Szechuan Coffee-Rubbed Skirt Steak, Purple Sticky Rice, Taro Chips, Pickled Veggies, and Lettuce Wraps.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Pizza
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] pork chops, salad, and eggplant parmigiana
+number of nodes: 1
+number of edges: 0
+title: Grilled shrimp [Homemade]
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] Yakitori chicken, chicken thighs, no bone and with skin, salt, oil and spring onion
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: Sourdough Bread [Homemade]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: Wings and pizza, that’s a WAP [homemade]
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [homemade] Proper 7/8’s English
+number of nodes: 14
+number of edges: 13
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 12)
+(4, 8)
+(4, 13)
+(6, 9)
+(6, 10)
+(7, 11)
+title: [I ate] Umakara Tan Tan Ramen
+number of nodes: 3
+number of edges: 3
+(0, 1)
+(0, 0)
+(0, 2)
+title: [Homemade] Basic double smash burger with cheddar with fries
+number of nodes: 9
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 7)
+(2, 5)
+(2, 6)
+(6, 8)
+title: [Homemade] Babyback Ribs two ways, macaroni salad and coleslaw.
+number of nodes: 1
+number of edges: 0
+title: [homemade] chocolate babka and chocolate chip-toffee brown butter cookies
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Chicken Gyro
+number of nodes: 10
+number of edges: 9
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(1, 7)
+(1, 8)
+(1, 9)
+title: 1. Shiitake, roasted garlic, and shaved black truffle. 2. Pepperoni and roasted garlic 3. Margherita 4. Supreme with Italian sausage, smoked mozzarella and artichoke sausage, pepperoni, pasilla peppers, onions, and mushrooms. [homemade]
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Korean Fried Chicken Sandwich
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Verde Enchiladas de Pollo
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [pro/chef] Torched salmon belly / ponzu / chillies/ lemon balm / rhubarb.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Grilled cheeses and chicken soup with satashi noodles
+number of nodes: 1
+number of edges: 0
+title: carbonara [homemade]
+number of nodes: 13
+number of edges: 12
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+title: [I ate] A burger
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [i ate] this Crunch Berries glazed donut
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [Homemade] NY steak with black pepper gravy and sauteed veg.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Cheeseburger and fries.
+number of nodes: 1
+number of edges: 0
+title: brisket flat [homemade]
+number of nodes: 89
+number of edges: 91
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 66)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 84)
+(0, 85)
+(1, 56)
+(1, 57)
+(1, 41)
+(3, 79)
+(6, 58)
+(10, 59)
+(10, 60)
+(10, 61)
+(11, 62)
+(25, 63)
+(41, 64)
+(52, 65)
+(54, 69)
+(56, 67)
+(56, 68)
+(57, 69)
+(57, 70)
+(57, 71)
+(66, 76)
+(66, 70)
+(66, 83)
+(69, 77)
+(71, 78)
+(74, 88)
+(75, 80)
+(77, 81)
+(77, 82)
+(83, 86)
+(84, 87)
+title: [I ate] Ribeye with foie gras and onions roasted in duck fat
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(2, 3)
+title: [I ate] a burger.
+number of nodes: 5
+number of edges: 5
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] pasta salad
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [homemade] veggie sandwich with hummus and alfalfa sprouts
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [homemade] White bean chicken chili
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Bacon Double Cheeseburger
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Mei Fun
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] a bacon wrapped danish hotdog
+number of nodes: 9
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(2, 6)
+(3, 7)
+(4, 8)
+title: [homemade] piri piri chicken breast
+number of nodes: 1
+number of edges: 0
+title: [I ate] Cronut
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+title: [HOMEMADE] Egg and Bacon Sandwich, Cheddarwurst, Potato Cake
+number of nodes: 1
+number of edges: 0
+title: Lemon Garlic Pasta, hand rolled and cut pasta- it was really good [Homemade]
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] Chicken tikka with Indian inspired rice and garlic naan bread
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] French Apple Tart
+number of nodes: 1
+number of edges: 0
+title: Seafood tower [homemade]
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Spaghetti alla Gricia
+number of nodes: 1
+number of edges: 0
+title: [homemade]: pepperoni pizza
+number of nodes: 1
+number of edges: 0
+title: [homemade] lacto fermented asparagus with burrata and wild garlic oil
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(2, 3)
+title: [Homemade] Pan seared chicken thighs with Greek salad
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(3, 5)
+title: memorial day mac n cheese [homemade]
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Wagyu beef burger
+number of nodes: 1
+number of edges: 0
+title: [homemade] Fresh Neufchâtel
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Birria Tacos
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] Sushi
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Broccoli cheddar soup
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] NY Strip with sauteed mushrooms, creamed spinach, and smashed potatoes
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Chicken Schnitzel with Parsley Potatoes
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Juicy Lucy
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Rainbow Snackboard
+number of nodes: 51
+number of edges: 51
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 47)
+(9, 43)
+(23, 44)
+(41, 45)
+(43, 46)
+(45, 48)
+(46, 49)
+(46, 50)
+title: Brisket on Handmade biscuit with Strawberry Jam [i ate]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: Smoked Brisket, Shrimp, Meatloaf with Beans and Elote [I ATE]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Venison steak and pork jalapeño poppers
+number of nodes: 1
+number of edges: 0
+title: [homemade] hangar steak with sesame/miso baby bok choi
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Dark chocolate coconut caramel pecan cheesecake
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Turkey bacon croissant sandwich
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Galbi Jjim
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [I ate] Hazelnut Mocha Croissant
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Applewood Smoked Baby Back Ribs
+number of nodes: 1
+number of edges: 0
+title: [homemade] omelette, chocolate chip pancakes, and sausage
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Chewy Chocolate Chip Cookies
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Deluxe and Grilled Onion Burger
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Cinnamon Roll Bread Pudding
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [homemade] Spaghetti Al Limone
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Homemade Sushi
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] scones, blueberry lemon zest and raspberry orange zest
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] yeast dinner rolls
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [i ate] Aztlan Bowl ·· Quinoa, kale, pepita chorizo, guacamole, pico de gallo
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Watermelon, mint, and feta salad
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Fried Rice
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Philly inspired, Chi-Town Sandwich
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [I Ate] Smoked and Sauced Pork Ribs
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Smoked beef ribs.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Baby Back Ribs
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(1, 6)
+title: From the lake to the plate, Fish and Chip [homemade]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chili Crisp
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chicken Kebab
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Curry Chicken Mayo on Brioche Buns
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [Homemade] Vanilla Cream Cake AKA Karpatka
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Grilled Pork Banh Mi
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Loaded Chorizo con Papas Nachos (with roasted habanero salsa, guacamole, pico de gallo, and sour cream)
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] tacos
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] fettuccine Alfredo with cast iron chicken breast & airfried mushroom broccoli
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] I cooked American steak
+number of nodes: 11
+number of edges: 10
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(1, 8)
+(1, 9)
+(4, 10)
+title: [homemade] Chicken schnitzel, Spanish rice and avocado bowl.
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Tomato and Burrata salad
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [Homemade] Neapolitan style Margherita.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Tri-tip sandwiches
+number of nodes: 1
+number of edges: 0
+title: [i ate] DimSum Dumplings
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Hotdogs 3 Ways and Hand-cut French Fries
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Saudi Mutabaq
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Double Mushroom Swiss Burger w/ Bacon
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [HOMEMADE] Exxtra crispy Hot honey glazed bacon N eggs
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Pesto Avocado Pasta
+number of nodes: 1
+number of edges: 0
+title: [homemade] Spicy Beef burger with spinach
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Breaded Shrimps
+number of nodes: 13
+number of edges: 13
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(1, 10)
+(1, 11)
+(1, 12)
+(7, 11)
+title: [Homemade] Margherita Pizza
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [i ate] Oatmilk Soft-serve with Tahini and Havla
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Caramel Popcorn
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: Ramen [homemade]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Prime Rib, Grilled Salmon, Fried Halibut, Fried Cod, Mac&Cheese and Dungeness Crab
+number of nodes: 103
+number of edges: 110
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 0)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 84)
+(0, 85)
+(0, 77)
+(0, 78)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 100)
+(1, 76)
+(5, 77)
+(5, 78)
+(5, 99)
+(15, 79)
+(16, 80)
+(17, 81)
+(21, 82)
+(31, 78)
+(57, 83)
+(74, 85)
+(74, 96)
+(77, 86)
+(77, 87)
+(77, 88)
+(78, 78)
+(79, 92)
+(81, 93)
+(81, 94)
+(84, 96)
+(85, 97)
+(86, 98)
+(89, 100)
+(90, 93)
+(96, 101)
+(101, 102)
+title: [homemade] Crab Rangoons
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [I ate] Spicy Miso Ramen
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] shortbread thumbprint cookies filled with raspberry and blackberry jam
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Bacon, egg, and cheese on a toasted cheese bun
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Carne Asada
+number of nodes: 13
+number of edges: 12
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(1, 9)
+(1, 10)
+(3, 11)
+(9, 12)
+title: [Homemade] Lamb Chops with Salsa Verde and New Potatoes
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chicken Lettuce Wraps
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Baby Back Ribs & Coleslaw
+number of nodes: 1
+number of edges: 0
+title: [i ate] Peruvian food: grilled octopus, Jalea Mixta, flan & a cortadito!
+number of nodes: 1
+number of edges: 0
+title: [I ate] Chakhchoukha (Algerian dish)
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] BBQ Pulled Chicken Sandwich
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] oreo macarons
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [i ate] fried monte cristo breakfast sandwich with berry jam and sweet potato fries
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Cheesecake
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Pan pizza
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] mini bell peppers stuffed with cream cheese, bacon, and mushrooms
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] miso-katsu
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Pretzel Bun Cheeseburger with Fries
+number of nodes: 1
+number of edges: 0
+title: [I ate] tempura
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Ramen with Spam and Pork Belly
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] this roast beef and bacon sandwich
+number of nodes: 17
+number of edges: 16
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(15, 16)
+title: [homemade] matcha cake filled with mascarpone whipped cream and fresh strawberries!
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Palmiers.
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+title: [homemade] Gorgonzola burger with caramelized onions and balsamic shiitake mushrooms
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: a charcuterie.[homemade]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Meat (Pep, Sausage) and Mushroom Pizza
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] beef and al pastor tacos.
+number of nodes: 26
+number of edges: 25
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 22)
+(0, 20)
+(0, 25)
+(1, 14)
+(2, 25)
+(2, 12)
+(3, 15)
+(3, 16)
+(12, 23)
+(12, 24)
+(14, 17)
+(16, 18)
+title: [i ate] A burger from my work named Dirty Bastard
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] lasagna with egg noodles
+number of nodes: 1
+number of edges: 0
+title: Fresh reef fish with sweet potato mash and pineapple-jalapeño salsa [Homemade]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: Chicky chicky parm parm [homemade]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Smoked Chicken and Pork Butt
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chopped Cheese Hoagie W/ Garlic Parm Smashed Potatoes.
+number of nodes: 1
+number of edges: 0
+title: [i ate] chocolate soufflé
+number of nodes: 1
+number of edges: 0
+title: [homemade] Pan sheet dinner: Fava beans, chards, asparagus and veal
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] - Montreal Smoked Meat Sandwich.
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+title: [homemade] Buffalo chicken on a Portuguese roll
+number of nodes: 1
+number of edges: 0
+title: [I ate] Japanese-Spanish Omakase
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] strawberry tartlet, with ricotta and orange glaze on a thin shortbread crust.
+number of nodes: 1
+number of edges: 0
+title: [I ate] Zoli’s O.D. Burger
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] chili in a bread bowl
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Idli with Sambhar and coconut chutney
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] beef brisket w/smoked peach, garlic/thyme green beans & broccoli salad.
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [Homemade] Brownie-Käsekuchen
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Egg, potato, sausage, and pepper breakfast bowls
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Lamb roast dinner
+number of nodes: 5
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(1, 3)
+title: [Homemade] Duck Egg Slinger
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [I ate] Monte Cristo with Raspberry Jam
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Xiao Long Bao
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Lentil Soup
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Sun Dried Tomato and Garlic Focaccia
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] breakfast of apples, raspberries, blackberries, pecans and lemon yogurt
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Sourdough gouda grilled cheese with homemade tomato soup
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [Homemade] chocolate chip pecan cookies
+number of nodes: 1
+number of edges: 0
+title: [homemade] a simple pork roll, egg & cheese on a kaiser.
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(4, 5)
+title: [homemade] chicken parm
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] spring mix salad with fruit, nuts and lemon thyme dressing
+number of nodes: 1
+number of edges: 0
+title: [homemade] blueberry pound cake
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Boston Creme Pie
+number of nodes: 19
+number of edges: 19
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(1, 15)
+(4, 16)
+(4, 18)
+(5, 17)
+(16, 18)
+title: Italian cold rice salad [homemade]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade]
+number of nodes: 1
+number of edges: 0
+title: hamburger [homemade]
+number of nodes: 1
+number of edges: 0
+title: [I ATE] short ribs
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [homemade] venison
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] chole bhature
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Sandwich
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Cast-Iron Buttermilk Biscuits
+number of nodes: 37
+number of edges: 35
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(1, 23)
+(1, 24)
+(1, 25)
+(1, 26)
+(9, 27)
+(9, 28)
+(9, 29)
+(12, 30)
+(12, 31)
+(12, 36)
+(30, 32)
+(31, 33)
+(32, 36)
+title: [Homemade] Chicken Mince Patty, Potato Fries, Boiled Vegetables, Ketchup, And MULK
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: Fruit tart (tart was painted with chocolate, then filled with sweetened mascarpone. The fruit was glazed with a strained raspberry jam). [homemade]
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [homemade] bread with cheese and a cup of coffee
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [homemade] Colombian Cheese and Yam Soup
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Pan con Palta, avocado toast with quail eggs, in Peru
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] bbq chicken, grilled Pasilla pepper, corn, bread & butter pickles, egg salad, strawberry jam-whiskey cocktail
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Scones
+number of nodes: 1
+number of edges: 0
+title: [I ate] Overnight Quinoa and Spelt Porridge with Fresh Berries and Banana
+number of nodes: 1
+number of edges: 0
+title: Simple [homemade] veggie pan with gnocchi and sesam
+number of nodes: 1
+number of edges: 0
+title: [homemade] bocancini stuffed meatballs
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] Afternoon Tea
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Mini Oat Cinnamon & Strawberry Rolls
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [I ate] Molé roasted duck taco, shrimp ceviche taco, and a chicken tikka masala taco
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [Homemade] Singapore Satay
+number of nodes: 1
+number of edges: 0
+title: [Homemade] French Vanilla Ice Cream
+number of nodes: 11
+number of edges: 11
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 10)
+(3, 8)
+(8, 9)
+title: [Homemade] Cheeseburgers on the grill
+number of nodes: 1
+number of edges: 0
+title: [i ate] lemon meringue donut
+number of nodes: 9
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(3, 8)
+title: [Homemade] Steak and potatoes
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Nachos
+number of nodes: 210
+number of edges: 219
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 92)
+(0, 93)
+(0, 94)
+(0, 95)
+(0, 96)
+(0, 97)
+(0, 98)
+(0, 99)
+(0, 100)
+(0, 101)
+(0, 102)
+(0, 103)
+(0, 104)
+(0, 105)
+(0, 106)
+(0, 107)
+(0, 108)
+(0, 109)
+(0, 110)
+(0, 111)
+(0, 112)
+(0, 113)
+(0, 114)
+(0, 115)
+(0, 116)
+(0, 117)
+(0, 118)
+(0, 119)
+(0, 120)
+(0, 121)
+(0, 122)
+(0, 123)
+(0, 124)
+(0, 125)
+(0, 126)
+(0, 127)
+(0, 128)
+(1, 129)
+(1, 130)
+(1, 131)
+(1, 132)
+(1, 133)
+(1, 134)
+(1, 135)
+(1, 145)
+(2, 136)
+(2, 137)
+(2, 138)
+(2, 139)
+(2, 140)
+(2, 141)
+(3, 142)
+(3, 143)
+(3, 144)
+(3, 6)
+(3, 145)
+(3, 197)
+(3, 155)
+(3, 198)
+(3, 199)
+(4, 145)
+(5, 146)
+(5, 147)
+(5, 135)
+(5, 148)
+(5, 149)
+(7, 150)
+(9, 151)
+(9, 152)
+(10, 153)
+(18, 154)
+(18, 155)
+(26, 156)
+(26, 157)
+(28, 158)
+(28, 159)
+(31, 160)
+(67, 161)
+(67, 162)
+(79, 155)
+(94, 103)
+(129, 163)
+(129, 164)
+(129, 165)
+(130, 166)
+(130, 167)
+(130, 168)
+(130, 201)
+(131, 169)
+(132, 170)
+(133, 171)
+(136, 172)
+(136, 173)
+(137, 174)
+(142, 143)
+(142, 175)
+(142, 176)
+(142, 205)
+(144, 175)
+(145, 177)
+(145, 178)
+(145, 149)
+(147, 179)
+(151, 180)
+(154, 181)
+(154, 182)
+(163, 183)
+(163, 184)
+(170, 185)
+(170, 186)
+(172, 187)
+(174, 188)
+(174, 189)
+(174, 178)
+(174, 190)
+(174, 191)
+(175, 192)
+(176, 193)
+(176, 194)
+(176, 195)
+(176, 196)
+(180, 200)
+(186, 202)
+(188, 203)
+(190, 204)
+(193, 205)
+(200, 206)
+(202, 207)
+title: [homemade] beef stew over rice
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 0)
+(0, 3)
+title: [homemade] chicken laksa soup
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Cheese on toast: Cheddar, cherry tomatoes, Worcestershire sauce on sourdough.
+number of nodes: 16
+number of edges: 17
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(1, 6)
+(1, 13)
+(5, 15)
+title: [homemade] breakfast burritos
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] Chilaquiles en salsa roja.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Pepperoni and Meatball Subs
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Pear frangipane tart
+number of nodes: 21
+number of edges: 21
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+title: [Homemade] White Chocolate Lemon Meringue Cookies
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Biscoff cups
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] a Reuben
+number of nodes: 33
+number of edges: 33
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 0)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 26)
+(0, 27)
+(0, 28)
+(6, 24)
+(6, 25)
+(6, 31)
+(6, 32)
+(24, 29)
+(26, 30)
+title: [Homemade] Lemon Tartlets with Shortbread Crust
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] ceviche in XpuHa Mexico
+number of nodes: 1
+number of edges: 0
+title: [I ate] Ricotta pancakes with lemon curd
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Crab Rangoon
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Cookies
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(2, 5)
+title: [homemade] banana walnut maple loaf
+number of nodes: 1
+number of edges: 0
+title: [i ate] Banana-strawberry-papaya smoothie from a food market stand in Lisbon.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Banana bundt cake with coffee glaze and cinnamon crumble
+number of nodes: 9
+number of edges: 9
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(2, 8)
+(8, 8)
+title: [homemade] Spicy Tuna Sushi Stacks (May 2022)
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Stuffed Crust Garlic Chicken & Bacon Pizza with creamy onion sauce
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Soufflé Pancakes
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(3, 3)
+title: [Homemade] Avocado shaped macarons
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [homemade] chicken and grits
+number of nodes: 1
+number of edges: 0
+title: [homemade] roast dinner
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+(4, 5)
+title: [Homemade] 15 hour smoked Brisket with peach-habanero BBQ sauce
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [I ate] cheese quesadillas
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Bacon
+number of nodes: 1
+number of edges: 0
+title: [homemade] Birria tacos (beef)
+number of nodes: 1
+number of edges: 0
+title: [homemade] I made some sweet bread covered in honey and walnuts crumble
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Wet burritos with homemade beans
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [Homemade] Jerk Chicken
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(3, 4)
+title: Cinnamon Toast Crunch Crispies [homemade]
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [Homemade] My first try at smoking a brisket, with homemade cornbread, coleslaw, and squash pickles
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [i ate] seafood paella, lomo saltado, and a goat milk Peruvian cake with guava sorbet. 10/10
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [Homemade] chicken shawarma
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] pizza
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [Homemade]Memorial Day Pork Butt
+number of nodes: 1
+number of edges: 0
+title: [i ate] trader joe’s sweet corn, burrata and basil raviolis with a quick homemade lemon garlic cream sauce
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Falafel and sides.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Seafood Broil
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+title: [homemade] lightly toasted sourdough with smashed avocado, steamed rocket, garlic prawns, and a drizzle of seafood sauce.
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [i ate] Smoked Ribs with Mac Salad and Coleslaw!
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] sushi
+number of nodes: 6
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+(2, 5)
+(2, 3)
+title: [Homemade]gyros with bread, pineapple, paprika, union, mushroom, red pepper, grilled cheese, cucumber, garlic sauce
+number of nodes: 1
+number of edges: 0
+title: [homemade] Breakfast
+number of nodes: 1
+number of edges: 0
+title: [homemade] Thai Style Mussels
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Panko crusted chicken with a side of linguine with brown butter mushrooms, red pepper flakes, lemon cream sauce, and fresh basil from my kitchen garden.
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(5, 6)
+title: [I ate] Texas BBQ, San Antonio style
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Chocolate dipped strawberry ice cream
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [Homemade] Parmesan crusted salmon with bacon
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I Ate] Ipswich Fried Clams and Fried Scallops
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] 14 hour smoked brisket
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Honey Sriracha fried chicken burger with coleslaw
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Candied Maple Banana Bread
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Poutine sans Poutine
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] döner kebab
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: 35 Day Dry Aged NY Strip With Compound Butter [Homemade]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] low calorie pizza
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+title: [homemade] Beer battered fish tacos with chipotle aioli and a fresh mango salsa.
+number of nodes: 1
+number of edges: 0
+title: [I ate] A Soft Pretzel
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(1, 6)
+title: [Homemade] Frisco Melt
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [Homemade] banana bread French toast.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Jalapeño pepper jack, bacon, guac and special sauce on brioche
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Chocolate Chip Cookies
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(2, 3)
+title: [Homemade] smoked beef and pork ribs
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] hot pot
+number of nodes: 1
+number of edges: 0
+title: [i ate] a Cookie Monster milkshake
+number of nodes: 11
+number of edges: 10
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(1, 9)
+(9, 10)
+title: [I ate] Birthday Cake Cheeseburger and Cake Fries
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Spare Ribs
+number of nodes: 3
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 0)
+title: [homemade] Thai style chicken wings
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Grilled swordfish, roasted potatoes & zucchini
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+title: [homemade] toast with smashed egg + green onion and tomato, cream cheese and balsamic reduction
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [I ATE] Seven Dragon Ball
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Jalapeño Cheddar Kolaches
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 7)
+(1, 5)
+(3, 6)
+title: [Homemade] Pancakes with maple syrup
+number of nodes: 13
+number of edges: 13
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(1, 11)
+(11, 12)
+title: [I Ate] Black Truffle Soup Dumplings & Tofu w/ Soy Sauce Vinaigrette
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Carbonara
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Trout with lemon and green onion, [OC]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I Ate] Crawfish Etouffee
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Stromboli
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Hamburgers cooked over fire
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [homemade] New Mexico style cheese enchiladas
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [I ate] 3 tacos de birria
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Pizza
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Szechuan style spicy cauliflower w/ bacon
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Hot Pot with Brisket and Lamb
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 6)
+(2, 5)
+title: [homemade] Golden Fried Cheese Curds
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(2, 4)
+title: [Homemade] Beer battered fish with [homemade] tartar sauce
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [i ate] crab cakes, celery slaw, mashed potatoes, and ceasar salad!
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Korean braised potatoes
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [homemade] Carne Asada Tacos
+number of nodes: 1
+number of edges: 0
+title: [I Ate] Chicken and Waffles
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(4, 5)
+title: [I ate] Lamb croquette with creamcheese, tare sauce, garlic paste and crispy spring greens
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [homemade] tomato and chili toast
+number of nodes: 1
+number of edges: 0
+title: [homemade] Cinnamon rolls!
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] pizza
+number of nodes: 1
+number of edges: 0
+title: [homemade] egg drop soup
+number of nodes: 1
+number of edges: 0
+title: [I ate] this sushi platter.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Brisket
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [homemade] œufs de caille à la florentine
+number of nodes: 1
+number of edges: 0
+title: [I ate] Avocado Toast w/ Feta, and Cherry Tomatoes
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Air Fried Donut Holes
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Tomahawk Rib-eye
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] roasted cod, white bean purée, tomato, fennel, olive, garlicky sourdough, & Calabrian chili.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chicken Karahi
+number of nodes: 1
+number of edges: 0
+title: [i ate] Turkish appetizers
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(4, 5)
+title: [I ate] Hmong pho
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [homemade] matcha pudding
+number of nodes: 1
+number of edges: 0
+title: [homemade] Apple Smoked Pulled Pork with Eastern Carolina BBQ sauce, Mint Slaw, and fried Shishito peppers
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Greek-style pasta salad
+number of nodes: 1
+number of edges: 0
+title: [homemade] chicken souvlaki, poblano peppers, onions, goat cheese, Persian cucumber, kalamata paste on flat bread w/ side of stuffed grape leaves
+number of nodes: 1
+number of edges: 0
+title: [homemade] Harvested some giant basil from my aerogarden
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: NY Strip on cast iron! [homemade]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] Torta Ahogada
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Carnitas
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Cedar planked mashed potatoes
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [Homemade] Sizzzler Brownie
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] roast veal leg with roast potatoes and sautéed cabbage.
+number of nodes: 1
+number of edges: 0
+title: [Homemade] [I caught] Rainbow trout wrapped in Bacon
+number of nodes: 9
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+title: [Homemade] Double smash burger & wavy fries
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 4)
+(1, 3)
+title: [Homemade] Cajun Chicken Pasta with Paprika Greek yogurt sauce
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] farfalle in yuzu white sauce with zucchini & bratwurst
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [Homemade] Beef Back Ribs and Sausages
+number of nodes: 6
+number of edges: 6
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] roast beef sandwich
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Nashville style hot chicken and waffles
+number of nodes: 1
+number of edges: 0
+title: Coleslaw hotdogs [homemade]
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] I call it “Burrata in a Nest”
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [Homemade] BBQ Chicken
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [I ate] Falafel sandwich
+number of nodes: 1
+number of edges: 0
+title: [I ate] A berry crunch sugar cookie
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+(4, 5)
+title: [Homemade] Beg Wot with Cassava "Injera"
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade]smoked meatball sub
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Wheat bread with peanut butter and bananas
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] Coconut Cake
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [I ate] A Stromboli from a family owned pizza shop
+number of nodes: 205
+number of edges: 228
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 92)
+(0, 93)
+(0, 94)
+(0, 95)
+(0, 96)
+(0, 97)
+(0, 98)
+(0, 99)
+(0, 100)
+(0, 101)
+(0, 102)
+(0, 134)
+(0, 135)
+(0, 136)
+(0, 137)
+(0, 138)
+(0, 139)
+(0, 140)
+(0, 158)
+(0, 159)
+(0, 160)
+(0, 161)
+(0, 162)
+(1, 103)
+(1, 104)
+(1, 105)
+(1, 106)
+(1, 107)
+(1, 108)
+(1, 109)
+(1, 110)
+(1, 111)
+(1, 112)
+(1, 113)
+(1, 114)
+(1, 115)
+(1, 116)
+(1, 117)
+(1, 118)
+(1, 119)
+(1, 120)
+(1, 121)
+(1, 122)
+(1, 123)
+(1, 124)
+(1, 35)
+(2, 125)
+(2, 121)
+(6, 126)
+(6, 127)
+(7, 128)
+(9, 129)
+(9, 108)
+(9, 170)
+(9, 171)
+(9, 172)
+(9, 173)
+(14, 130)
+(14, 143)
+(14, 173)
+(15, 131)
+(22, 132)
+(63, 63)
+(63, 121)
+(90, 109)
+(90, 138)
+(90, 141)
+(90, 149)
+(90, 153)
+(90, 193)
+(93, 133)
+(93, 129)
+(102, 134)
+(103, 160)
+(107, 141)
+(108, 142)
+(108, 143)
+(108, 144)
+(108, 145)
+(108, 146)
+(108, 147)
+(108, 148)
+(108, 121)
+(108, 149)
+(108, 150)
+(108, 151)
+(108, 152)
+(109, 153)
+(110, 129)
+(111, 154)
+(114, 120)
+(114, 121)
+(119, 155)
+(122, 156)
+(125, 157)
+(129, 163)
+(134, 164)
+(135, 153)
+(136, 165)
+(136, 166)
+(140, 153)
+(141, 167)
+(142, 168)
+(142, 169)
+(143, 174)
+(143, 175)
+(145, 176)
+(153, 201)
+(154, 177)
+(159, 178)
+(160, 179)
+(161, 194)
+(164, 180)
+(164, 181)
+(165, 182)
+(165, 183)
+(169, 184)
+(170, 185)
+(171, 186)
+(174, 187)
+(174, 188)
+(174, 189)
+(174, 190)
+(174, 191)
+(174, 192)
+(177, 193)
+(179, 194)
+(180, 195)
+(180, 196)
+(181, 197)
+(183, 198)
+(183, 199)
+(185, 190)
+(185, 201)
+(185, 202)
+(189, 200)
+(201, 203)
+title: [Homemade] Sausage and Mushroom pizza
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [I ate] Pork Vindaloo Sliders with Chicken Xacuti Wings
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Okonomiyaki Hiroshima style (with noodles)
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] double burger dressed like a Big Mac with maple bacon
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [Homemade] Zucchini pancakes
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Salmon with Pork rub seasoning and Grilled Romaine lettuce hearts
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 6)
+(1, 3)
+(1, 4)
+(3, 5)
+title: [homemade] charcuterie board
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] New Mexican Red Chile Sauce
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(4, 5)
+title: [Homemade] Candied Bacon
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Santa Maria style BBQ. Tri-tip, pinquinto beans, and lemon pepper buttered corn on the cob.
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [Homemade] Korean pulled pork
+number of nodes: 1
+number of edges: 0
+title: Sausage Egg and Cheese [peep that pig candy though] [homemade]
+number of nodes: 4
+number of edges: 3
+(0, 0)
+(0, 1)
+(0, 2)
+title: [I ate] Light breakfast in Porto, Portugal. Hot dog (cachorro) w/ ham & cheese topped in a tomato & beer sauce. Tomato salad and fries.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] sour cream pound cake
+number of nodes: 1
+number of edges: 0
+title: [Homemade] sweet potato chips, crumbed fish and salad
+number of nodes: 1
+number of edges: 0
+title: [homemade] blackened salmon with parmesan orzo and blistered tomatoes
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [Homemade] Egg Salad On Toast
+number of nodes: 1
+number of edges: 0
+title: [homemade] Asian-American Grill Sauce on Pork Loin
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [Homemade] Cheesesteak sandwich
+number of nodes: 69
+number of edges: 73
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 53)
+(2, 38)
+(4, 39)
+(4, 40)
+(7, 41)
+(10, 42)
+(10, 43)
+(10, 44)
+(10, 40)
+(21, 45)
+(25, 46)
+(30, 31)
+(38, 47)
+(38, 42)
+(38, 59)
+(40, 47)
+(40, 52)
+(40, 62)
+(41, 65)
+(43, 52)
+(47, 62)
+(47, 67)
+(48, 56)
+(48, 57)
+(48, 58)
+(52, 60)
+(52, 61)
+(57, 63)
+(57, 64)
+(60, 65)
+(61, 66)
+(64, 65)
+title: [I Ate] Noodles w/ Dan-Dan Sauce
+number of nodes: 1
+number of edges: 0
+title: Tomato Egg Drop Soup [Homemade]
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [I ate] a Gyros Platter
+number of nodes: 1
+number of edges: 0
+title: [I ate] Greek Souvlaki
+number of nodes: 1
+number of edges: 0
+title: [homemade] penne alla vodka
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Thin crust pizza with sausage and mushrooms
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: Chili dogs [homemade]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Blueberry, ginger, lemon, and cream scones
+number of nodes: 1
+number of edges: 0
+title: [I Ate] Fried Rabbit and Stew
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] Chicken Katsu Curry from scratch
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [i ate] ice cream waffles and vietnamese style ice coffee
+number of nodes: 1
+number of edges: 0
+title: [homemade] Duck breast a l’orange
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] Spicy gnocchi w/ pork sausage balls and fresh mozz
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Spicy beefy ramen in a creamy shiitake broth
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: Chicken Alfredo with steamed green beans, and grilled bread. [Homemade]
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Hawaiian Meatballs
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Spaghetti Tacos with Parmesan Cheese Shells
+number of nodes: 9
+number of edges: 9
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+title: [homemade] Fettuccine alla Carbonara with the difficult to find guanciale!
+number of nodes: 1
+number of edges: 0
+title: [homemade] Quiche with Leeks and Spinach, Roasted Carrots, Salted Lemon Dressing, Baba Ganoush, Brown Maple Butter, Coconut Chia Pudding
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] my first attempt at Spaghetti all’assassina. The spaghetti is nearly fried in a diluted tomato sauce, bit by bit, like a risotto kinda. The flavour is incredibly deep, and rich.
+number of nodes: 5
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 0)
+(0, 3)
+(0, 4)
+title: [I ate] Chicken mandhi Arabic food.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Ahi tuna salad
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] chocolate chess pie
+number of nodes: 16
+number of edges: 16
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(4, 13)
+(4, 14)
+(12, 15)
+title: [Homemade] Lasagne al forno
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Nachos
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] brisket
+number of nodes: 11
+number of edges: 10
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 10)
+(1, 9)
+title: [I ate] chicken fried snakehead
+number of nodes: 5
+number of edges: 5
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] Italian chicken thighs, bacon garlic spinach risotto, roasted cauliflower and peppers
+number of nodes: 1
+number of edges: 0
+title: [Homemade] chicken taquitos
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Eggdrop Soup
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Bulgogi Kimbap
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Fish tacos
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+title: [homemade] Hot pot for 2
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Beef Brisket
+number of nodes: 74
+number of edges: 95
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 64)
+(0, 65)
+(0, 66)
+(1, 44)
+(1, 45)
+(2, 46)
+(3, 47)
+(4, 48)
+(5, 49)
+(5, 50)
+(5, 51)
+(5, 52)
+(5, 53)
+(5, 43)
+(5, 69)
+(5, 70)
+(9, 43)
+(11, 54)
+(12, 55)
+(12, 56)
+(12, 54)
+(12, 57)
+(13, 43)
+(14, 58)
+(16, 43)
+(18, 54)
+(19, 43)
+(23, 59)
+(29, 43)
+(41, 43)
+(43, 47)
+(43, 49)
+(43, 51)
+(43, 60)
+(43, 66)
+(43, 54)
+(43, 67)
+(43, 68)
+(43, 65)
+(43, 48)
+(44, 60)
+(44, 61)
+(47, 62)
+(47, 50)
+(48, 72)
+(49, 54)
+(49, 63)
+(54, 65)
+(60, 67)
+(61, 68)
+(64, 71)
+(71, 73)
+title: [homemade] triple chocolate biscotti
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] kawara soba
+number of nodes: 1
+number of edges: 0
+title: [homemade] Soy cream cake with strawberries
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] pasta Carbonara
+number of nodes: 4
+number of edges: 4
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] spelt minibreads
+number of nodes: 1
+number of edges: 0
+title: [I Ate] Finger Food Selection
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [i ate] Fresh Avacado toast topped with sunny side up eggs
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: Oven Baked Ribs With [Homemade] BBQ Sauce
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Bakewell Tart
+number of nodes: 8
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 7)
+(1, 6)
+(2, 7)
+title: [I ate] Sweet Potato Fries
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Banchan (Korean side dishes): Eomuk Bokkeum (stir fried fish cakes) Kimchi, Myeolchi Bokkeum (stir fried anchovies and nuts), Hobak Bokkeum (stir fried zucchini), Beosut Bokkeum (stir fried mushrooms), Dalgyal Jorim (soy braised eggs)
+number of nodes: 9
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(5, 8)
+title: Turmeric quinoa salad [homemade]
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Roast pork belly with crackling
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Sake
+number of nodes: 7
+number of edges: 6
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(1, 6)
+title: [homemade] pull apart cheesy bread
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Rolled Omelette w/ Cottage Cheese
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [I ate] banh mi
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] Pepperoni pizza with white truffle oil & oregano
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(1, 5)
+title: [Homemade] Chicken Adobo
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] a Romanian desert
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Bone marrow sandwich and vodka
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] Feta za'atar flatbread and roasted eggplant dip
+number of nodes: 5
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Bagels
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(1, 5)
+title: [homemade] Burger & homemade mac salad
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Seared scallop salad with spring vegetables
+number of nodes: 3
+number of edges: 3
+(0, 0)
+(0, 1)
+(1, 2)
+title: Tacos Carne Asada & Al Pastor Corn Tortilla [I ATE]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Burger
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [homemade] Brined and smoked roast beef
+number of nodes: 1
+number of edges: 0
+title: [homemade] Chopped Cheese
+number of nodes: 4
+number of edges: 4
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+title: Shwarma shop delicacy [i ate]
+number of nodes: 85
+number of edges: 90
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 0)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 77)
+(1, 43)
+(4, 44)
+(4, 45)
+(4, 46)
+(5, 47)
+(5, 48)
+(5, 49)
+(6, 50)
+(6, 51)
+(6, 12)
+(6, 52)
+(6, 53)
+(6, 54)
+(6, 55)
+(6, 56)
+(6, 57)
+(6, 58)
+(6, 59)
+(6, 60)
+(15, 47)
+(43, 61)
+(45, 65)
+(46, 66)
+(47, 67)
+(47, 68)
+(48, 69)
+(48, 70)
+(50, 71)
+(50, 84)
+(51, 72)
+(52, 73)
+(55, 74)
+(56, 75)
+(59, 66)
+(62, 76)
+(64, 77)
+(65, 78)
+(68, 79)
+(69, 80)
+(71, 81)
+(71, 82)
+(72, 73)
+(73, 83)
+title: [Homemade] Pizza Margherita
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] sweet drumstick chicken
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Pineapple Cashew Chicken
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Wings, smoked and char buffed.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] Nacho wings
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Creamy hokkaido pumpkin soup with sour cream, pumpkin oil, ground pumpkin seeds, fresh parsley and croutons
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Slow cooked mutton leg roast with carrots and green beans fried in garlic butter
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Stuffed peppers from the grill with dirty fries
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [I ate] Knafeh with table cream
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] tacos de lengua with from-scratch corn tortillas and a side of tostones
+number of nodes: 1
+number of edges: 0
+title: [homemade] Avocado Toast, sunny side up eggs, and Bacon morning
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [homemade] Tom Yam Soup
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Korean Braised Eggs (Dalgyal Jorim, 달걀 )
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [i ate] pani puri
+number of nodes: 1
+number of edges: 0
+title: [homemade] white pizza with goat cheese
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade]Banh Xeo ( Vietnamese savory crepes)
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] jalapeño sausage with caramelized onions; creamy potato bake; fried eggs with spinach, picked onions and pesto sauce; & gallego bread toast.
+number of nodes: 1
+number of edges: 0
+title: [Homemade] smoked picanha
+number of nodes: 59
+number of edges: 64
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 37)
+(1, 22)
+(2, 23)
+(3, 24)
+(3, 25)
+(4, 26)
+(4, 27)
+(5, 28)
+(5, 31)
+(5, 53)
+(10, 29)
+(10, 30)
+(11, 31)
+(11, 32)
+(11, 52)
+(11, 46)
+(14, 33)
+(24, 34)
+(26, 35)
+(26, 36)
+(26, 37)
+(26, 38)
+(26, 39)
+(26, 40)
+(26, 41)
+(26, 42)
+(26, 43)
+(28, 44)
+(29, 57)
+(31, 42)
+(33, 39)
+(34, 45)
+(35, 46)
+(35, 47)
+(36, 48)
+(36, 49)
+(37, 50)
+(37, 58)
+(44, 51)
+(46, 54)
+(49, 53)
+(49, 55)
+(51, 56)
+title: [I ate] Falafel Wrap
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Yellow split peas and chorizo
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Pappardelle ai Funghi
+number of nodes: 7
+number of edges: 8
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(3, 6)
+title: [Homemade] Beef stroganoff
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Saturday morning breakfast; spinach/tomato/onion omelette, beans, tots, French toast, coffee!
+number of nodes: 7
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(2, 6)
+(2, 5)
+title: [homemade] Yum Yum Tan-Tan Ramen
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Drunken Mussels
+number of nodes: 2
+number of edges: 2
+(0, 1)
+(0, 0)
+title: [Homemade] 18hr smoked brisket
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [homemade] Korean crispy chicken pizza, with a hoisin base and cucumber/ginger/soy salad
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Korean halibut sashimi
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Orcodito’s cacio e pepe!
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [homemade] Breakfast Taco
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ate] halloumi salad
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Full English
+number of nodes: 15
+number of edges: 17
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 0)
+(0, 10)
+(0, 12)
+(1, 11)
+(1, 5)
+(3, 12)
+(4, 13)
+(5, 14)
+title: [homemade] Bacon and Sausage on Pesto Sour Dough Toast, Beetroot/Spinach Salad, Guacamole, Sundried Tomatoes, BBQ Beans and Scrambled Eggs
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Chocolate chip toffee cookies.
+number of nodes: 5
+number of edges: 5
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 4)
+(1, 3)
+title: [Homemade] Smoked Ribeye Roast.
+number of nodes: 94
+number of edges: 106
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 84)
+(0, 74)
+(0, 85)
+(0, 76)
+(0, 89)
+(0, 91)
+(1, 67)
+(2, 68)
+(2, 69)
+(2, 70)
+(2, 71)
+(4, 71)
+(4, 72)
+(4, 90)
+(8, 45)
+(10, 73)
+(16, 74)
+(20, 75)
+(26, 71)
+(29, 76)
+(29, 77)
+(29, 30)
+(29, 78)
+(29, 71)
+(29, 86)
+(30, 79)
+(30, 39)
+(32, 77)
+(33, 80)
+(35, 81)
+(36, 71)
+(39, 82)
+(39, 92)
+(40, 83)
+(71, 86)
+(71, 87)
+(71, 93)
+(76, 89)
+(78, 88)
+(89, 91)
+title: [homemade] Big Mac pizza
+number of nodes: 81
+number of edges: 81
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 67)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(2, 59)
+(4, 60)
+(4, 61)
+(5, 62)
+(39, 63)
+(59, 64)
+(60, 65)
+(60, 66)
+(61, 68)
+(64, 77)
+(69, 78)
+(69, 80)
+(69, 79)
+(69, 76)
+title: [I ate] Chicken Paulista sandwich and Summer Vibe juice.
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] Tacos
+number of nodes: 4
+number of edges: 4
+(0, 1)
+(0, 0)
+(0, 2)
+(0, 3)
+title: [Homemade] Crispy Chicken Burger
+number of nodes: 16
+number of edges: 15
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+title: [homemade] Kimchi
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [Homemade] Pork Sisig
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(1, 5)
+title: [homemade] HE assessment carbonara with Parmesan and bacon
+number of nodes: 1
+number of edges: 0
+title: [I ate] Corned beef and chopped liver on rye
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [i ate] Trout with salad
+number of nodes: 1
+number of edges: 0
+title: [homemade] Beef chuck ragu with pappardelle.
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [I ate] Corn and Steak
+number of nodes: 36
+number of edges: 36
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(2, 24)
+(3, 25)
+(4, 26)
+(4, 27)
+(6, 28)
+(8, 29)
+(8, 30)
+(8, 34)
+(8, 35)
+(9, 31)
+(12, 32)
+(26, 28)
+(34, 35)
+title: [I Ate] Philly Cheese Steak Wit in Philly.
+number of nodes: 22
+number of edges: 23
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(5, 10)
+(6, 11)
+(6, 12)
+(6, 13)
+(6, 14)
+(9, 15)
+(9, 18)
+(15, 18)
+(15, 20)
+(18, 21)
+title: Drunkenly rolled kimbap [homemade]
+number of nodes: 12
+number of edges: 11
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(4, 11)
+title: [homemade] bbq chicken thighs
+number of nodes: 20
+number of edges: 19
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 18)
+(0, 19)
+(1, 16)
+(3, 17)
+title: [homemade] Poke
+number of nodes: 1
+number of edges: 0
+title: [i ate] crumbl cookies
+number of nodes: 11
+number of edges: 12
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(2, 8)
+(2, 9)
+(3, 8)
+(5, 9)
+(8, 10)
+title: [I ate] Poutine
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+title: [pro/chef] roast beef with chanterelle sauce, mashed potatoes, provençale tomato and chickpea salad
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [Homemade] Grilled (young) cheese/ham/pineapple sandwich with mayo and ketchup.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Egg over Salsa Macha
+number of nodes: 14
+number of edges: 13
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(2, 12)
+(3, 13)
+title: [i ate] Chocolate dipped cheesecake
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+title: [homemade] blueberry and strawberry fruit leather
+number of nodes: 7
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 0)
+(0, 6)
+title: [I ate] Grilled Chicken, Fried Rice, Garlic Mushroom
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Chicken udon
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] Flame Grilled NY Strip Steak
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Comically large 4 meat, 3 cheese submarine sandwich. Modelo for scale.
+number of nodes: 29
+number of edges: 29
+(0, 1)
+(0, 2)
+(0, 0)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 24)
+(0, 25)
+(1, 22)
+(1, 23)
+(4, 12)
+(11, 26)
+(22, 27)
+title: [i ate] bbq chicken, smoked+stuffed jalapeños, potato salad, etc.
+number of nodes: 3
+number of edges: 3
+(0, 1)
+(0, 0)
+(0, 2)
+title: [Homemade] Grilled pork and chicken
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] pasta carbonara w/tortellini and gnocchi
+number of nodes: 11
+number of edges: 10
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(4, 8)
+(5, 9)
+(6, 10)
+title: [i ate] garlic pizza with ricotta and tomato
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [i ate] eclair
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] fried chicken
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 4)
+(1, 3)
+title: [Homemade] Banana pancakes with berries, maple syrup.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] roast pork shoulder
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade] Nashville Hot Chicken Sandwiches with pickles, pickled onions, and avacado
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Ham, cheesy scalloped potatoes, corn and a creamy honey mustard sauce.
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [Pro/Chef] Lemon pie with meringue
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(1, 5)
+title: [Homemade] Stromboli with spinach, ricotta, and mozzarella
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] steak, shrimp, and Japanese rice
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: Grilled Harissa Chicken and Saffron Rice [homemade]
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Giant Big Macs
+number of nodes: 3
+number of edges: 3
+(0, 0)
+(0, 1)
+(0, 2)
+title: [homemade] Grilled Chicken Bacon Club Sandwiches
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Ngan Fish Sour Soup (Canh chua ca ngan)
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Italian Sausage w/ eggplant, mushroom and bell peppers in Tomato Sauce
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Chicken Florentine with orzo
+number of nodes: 1
+number of edges: 0
+title: [homemade] beef brisket
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] wonton soup
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [i ate] Fruit Cheese Cake
+number of nodes: 1
+number of edges: 0
+title: [homemade] Steak and Potatoes
+number of nodes: 19
+number of edges: 18
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(7, 17)
+(17, 18)
+title: [I ate] Spicy chili chicken
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] The Glizzy Platter
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [I ate] Croissant
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Spicy salmon and crispy rice
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] 3-2-1 ribs and sides.
+number of nodes: 3
+number of edges: 3
+(0, 0)
+(0, 1)
+(0, 2)
+title: [homemade] Chicken 65
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [i ate] chocolate ice creams. 1 chocolate top and flake stick, 2 peanut top and flake stick
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(3, 4)
+title: [homemade] blueberry and raspberry cheesecake.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [pro/chef] cinnamon rolls
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] biscuits
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(2, 3)
+title: [homemade] caprese salad and baked pizza shells
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+(3, 5)
+title: [homemade] Chicken with lavender infused olive oil, garlic, and cayenne on rice, drizzled with honey and topped with toasted coconut
+number of nodes: 2
+number of edges: 2
+(0, 0)
+(0, 1)
+title: [I ate] Fried pork buns
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Osso Buco over Risotto
+number of nodes: 1
+number of edges: 0
+title: [homemade] burger
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [Homemade](Smoked beef plate ribs and accordion potatoes]
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] gumbo
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Wagyu Brisket
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Smoked barbacoa tacos
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chicken Satay
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [I ATE] Steak
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Homemade] Cheese and Chorizo sandwich
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+title: [Homemade] Pizza
+number of nodes: 138
+number of edges: 145
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 90)
+(0, 91)
+(0, 111)
+(0, 101)
+(0, 117)
+(0, 118)
+(0, 119)
+(0, 120)
+(0, 133)
+(1, 89)
+(1, 90)
+(1, 91)
+(1, 92)
+(2, 93)
+(3, 94)
+(4, 95)
+(4, 121)
+(4, 122)
+(6, 96)
+(34, 97)
+(36, 50)
+(36, 98)
+(38, 89)
+(39, 99)
+(39, 100)
+(50, 52)
+(51, 101)
+(52, 99)
+(52, 93)
+(89, 102)
+(89, 103)
+(89, 104)
+(89, 105)
+(89, 106)
+(89, 107)
+(91, 108)
+(91, 109)
+(91, 110)
+(93, 101)
+(93, 123)
+(93, 134)
+(95, 130)
+(96, 112)
+(102, 113)
+(102, 114)
+(102, 131)
+(103, 115)
+(105, 116)
+(114, 124)
+(115, 125)
+(117, 126)
+(117, 127)
+(117, 128)
+(119, 129)
+(126, 132)
+(132, 136)
+(133, 135)
+title: [I ate] Maine lobster, mussels, roasted potatoes, spinach salad, and Parmesan mac and cheese.
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+title: [Homemade] Ground beef and pea samosas with pineapple barbecue sauce and apple-mint chutney
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] lasagna
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(2, 4)
+title: [homemade] shrimp tacos with mango pineapple salsa
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [homemade] Pork Ribs
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] a cheeseburger and fries
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [i ate] an Italian Bomb Pizza
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(2, 3)
+title: Sunny Side Egg w/ Pickled Serrano, Red Onion & Radish, Fresh Avocado, Cilantro, Feta & Bagel Seasoning [homemade]
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [i ate] fried chicken burgers. 1 with slaw, 2 with lettuce and tomato.
+number of nodes: 1
+number of edges: 0
+title: [I ate] Tacos
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Chocolate vanilla swirl cake
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Pizza on the grill!
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Parpardelle w/ Duck Breast.
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Sea bass, beet greens from the garden with feta, gastrique, local oysters.
+number of nodes: 8
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 0)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+title: [Homemade] Bday cake
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] burger with horseradish Mayo, shallot bacon jam, caramelized wild shrooms, Swiss on a local brioche bun.
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [I Ate] Lobster Roll on Sourdough
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [homemade] Thai stir fry veggies (potato, napa cabbage, and oyster mushrooms) over rice w/ coconut lemongrass soup.
+number of nodes: 1
+number of edges: 0
+title: [homemade] Coffee drip cake with homemade macarons
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Spinners made with homemade wild garlic pesto
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [I ate] Jalapeño Burger
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [I ate] Com ga roti/Vietnamese roasted chicken
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Ginger garlic shrimp and pork dumplings
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Vietnamese Summer Rolls with Peanut and Sweet Fish Sauces
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [homemade] Chicken Souvlaki
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] Cheese Burgers
+number of nodes: 1
+number of edges: 1
+(0, 0)
+title: [homemade] Pasta Aglio e Olio
+number of nodes: 4
+number of edges: 4
+(0, 0)
+(0, 1)
+(0, 2)
+(0, 3)
+title: [I ate] Tamales
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+title: [i ate] Maple Bacon Eclair
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [Pro/Chef] Brûléed Banana Alfajor
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(1, 2)
+title: [Homemade]Smoothie/milkshake (2x)
+number of nodes: 1
+number of edges: 0
+title: [I ate] Chicken Spaghetti Pasta
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(1, 4)
+title: [homemade] Steak and rice.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] Grilled cheese and tomato soup!
+number of nodes: 50
+number of edges: 56
+(0, 1)
+(0, 2)
+(0, 0)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 36)
+(0, 37)
+(0, 38)
+(1, 34)
+(1, 35)
+(1, 30)
+(9, 37)
+(9, 39)
+(16, 18)
+(18, 47)
+(33, 40)
+(33, 41)
+(34, 42)
+(34, 40)
+(34, 43)
+(34, 44)
+(34, 45)
+(37, 46)
+(39, 42)
+(43, 48)
+(47, 49)
+title: [I ate] Venison Carpaccio with pickled blueberries
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Lemon Meringue Pie
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [Homemade] Croissant French toast, topped with chopped strawberries and cream of coconut.
+number of nodes: 8
+number of edges: 8
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 6)
+(0, 7)
+(4, 7)
+title: [homemade] Seasoned diced potatoes, eggs and a chia seed yogurt drink before a hike this morning
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [homemade] 4-cheese lasagna w/ brisket ragu
+number of nodes: 1
+number of edges: 0
+title: [i ate] Tacos de pastor y bistec.
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: Polish pastrami sandwich delicacy [i ate]
+number of nodes: 8
+number of edges: 7
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(1, 6)
+(1, 7)
+title: [Homemade] Pork Tenderloin with roasted Asparagus and Asparagus cream soup
+number of nodes: 3
+number of edges: 2
+(0, 1)
+(0, 2)
+title: [pro/chef] Pulled Pork smoked for 14 hours, tossed in a Mustard Carolina BBQ Sauce.
+number of nodes: 1
+number of edges: 0
+title: [Homemade] Turkey and bean chili
+number of nodes: 2
+number of edges: 1
+(0, 1)
+title: [homemade] South Indian mini lunch - Matta Rice, Fish fry, Lady's finger stir fry, Omelette and Mango pickle.
+number of nodes: 6
+number of edges: 5
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(2, 5)
+title: [I ate] Burrata and Bone Marrow
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(1, 3)
+title: [i ate] tacos de birria
+number of nodes: 4
+number of edges: 3
+(0, 1)
+(0, 2)
+(0, 3)
+title: [PRO/CHEF] American explosion cake
+number of nodes: 5
+number of edges: 4
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+title: [Homemade] Pizza!
+number of nodes: 145
+number of edges: 150
+(0, 1)
+(0, 2)
+(0, 3)
+(0, 4)
+(0, 5)
+(0, 0)
+(0, 6)
+(0, 7)
+(0, 8)
+(0, 9)
+(0, 10)
+(0, 11)
+(0, 12)
+(0, 13)
+(0, 14)
+(0, 15)
+(0, 16)
+(0, 17)
+(0, 18)
+(0, 19)
+(0, 20)
+(0, 21)
+(0, 22)
+(0, 23)
+(0, 24)
+(0, 25)
+(0, 26)
+(0, 27)
+(0, 28)
+(0, 29)
+(0, 30)
+(0, 31)
+(0, 32)
+(0, 33)
+(0, 34)
+(0, 35)
+(0, 36)
+(0, 37)
+(0, 38)
+(0, 39)
+(0, 40)
+(0, 41)
+(0, 42)
+(0, 43)
+(0, 44)
+(0, 45)
+(0, 46)
+(0, 47)
+(0, 48)
+(0, 49)
+(0, 50)
+(0, 51)
+(0, 52)
+(0, 53)
+(0, 54)
+(0, 55)
+(0, 56)
+(0, 57)
+(0, 58)
+(0, 59)
+(0, 60)
+(0, 61)
+(0, 62)
+(0, 63)
+(0, 64)
+(0, 65)
+(0, 66)
+(0, 67)
+(0, 68)
+(0, 69)
+(0, 70)
+(0, 71)
+(0, 72)
+(0, 73)
+(0, 74)
+(0, 75)
+(0, 76)
+(0, 77)
+(0, 78)
+(0, 79)
+(0, 80)
+(0, 81)
+(0, 82)
+(0, 83)
+(0, 84)
+(0, 85)
+(0, 86)
+(0, 87)
+(0, 88)
+(0, 89)
+(0, 90)
+(0, 91)
+(0, 92)
+(0, 93)
+(0, 94)
+(0, 95)
+(0, 96)
+(0, 115)
+(0, 116)
+(0, 117)
+(0, 127)
+(0, 130)
+(0, 131)
+(0, 134)
+(2, 97)
+(2, 98)
+(2, 99)
+(2, 21)
+(2, 100)
+(2, 101)
+(2, 102)
+(2, 103)
+(2, 104)
+(2, 105)
+(2, 106)
+(2, 107)
+(2, 108)
+(2, 83)
+(2, 109)
+(2, 135)
+(3, 110)
+(3, 111)
+(3, 112)
+(3, 113)
+(3, 140)
+(4, 114)
+(6, 118)
+(6, 55)
+(16, 119)
+(42, 42)
+(53, 120)
+(53, 121)
+(53, 122)
+(60, 123)
+(98, 124)
+(98, 125)
+(99, 126)
+(99, 127)
+(99, 128)
+(110, 129)
+(115, 132)
+(115, 133)
+(124, 136)
+(124, 137)
+(125, 138)
+(126, 139)
+(131, 141)
+(136, 142)
+(140, 143)
+(141, 144)
