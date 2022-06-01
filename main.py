@@ -40,23 +40,44 @@ def get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load):
     graphs = get_graphs_indices_from_subreddit(subreddit, number_posts_to_load)
     return graphs
 
-subreddit_name = st.text_input('Subreddit name', 'hardware')
-number_posts_to_load = st.number_input('Number of posts to load', int(2))
 
-if 'first_run' not in st.session_state:
-    st.session_state['first_run'] = True
-if 'graph' not in st.session_state:
-    st.session_state['graph'] = []
+def col_content(key):
+    first_run_str = 'first_run' + str(key)
+    graph_str = 'graph' + str(key)
 
-if st.button('Load graphs'):
-    st.session_state['first_run'] = False
-    st.session_state['graph'] = get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load)
+    default_subreddit_name = ""
+    if(key == 1):
+        default_subreddit_name = "hardware"
+    else:
+        default_subreddit_name = "food"
 
-if st.session_state['first_run'] == False:
-    post_number = st.number_input('Which post to show', 0)
+    subreddit_name = st.text_input('Subreddit name', default_subreddit_name, key=key)
+    number_posts_to_load = st.number_input('Number of posts to load', int(2), key=key)
 
-    G = st.session_state['graph']
+    if first_run_str not in st.session_state:
+        st.session_state[first_run_str] = True
+    if graph_str not in st.session_state:
+        st.session_state[graph_str] = []
 
-    fig = plt.figure(figsize = (15, 15))
-    nx.draw_kamada_kawai(G[post_number], with_labels=True, width = .5)
-    st.pyplot(fig)
+    if st.button('Load graphs', key=key):
+        st.session_state[first_run_str] = False
+        st.session_state[graph_str] = get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load)
+
+    if st.session_state[first_run_str] == False:
+        post_number = st.number_input('Which post to show', 0, key=key)
+
+        G = st.session_state[graph_str]
+
+        fig = plt.figure(figsize = (15, 15))
+        nx.draw_kamada_kawai(G[post_number], with_labels=True, width = .5)
+        st.pyplot(fig)
+
+
+st.set_page_config(layout="wide")
+col1, col2 = st.columns(2)
+
+with col1:
+    col_content(1)
+
+with col2:
+    col_content(2)
