@@ -4,6 +4,7 @@ import streamlit as st
 import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
+import pandas as pd
 
 from karateclub.dataset import GraphSetReader
 from karateclub import FeatherGraph
@@ -63,15 +64,31 @@ def col_content(key):
         st.session_state[graph_str] = get_graphs_from_subreddit_name(subreddit_name, number_posts_to_load)
 
     if st.session_state[first_run_str] == False:
-        G, titles = st.session_state[graph_str]
+        graphs, titles = st.session_state[graph_str]
 
-        post_number = st.number_input('Which post to show', value=1, min_value=1, max_value=len(G), key=key)
+        post_number = st.number_input('Which post to show', value=1, min_value=1, max_value=len(graphs), key=key)
         post_number -= 1
+
+        G = graphs[post_number]
 
         fig = plt.figure(figsize = (15, 15))
         plt.title(titles[post_number])
-        nx.draw_kamada_kawai(G[post_number], with_labels=True, width = .5)
+        nx.draw_kamada_kawai(G, with_labels=True, width = .5)
         st.pyplot(fig)
+
+        index = []
+        tableData = []
+
+        # To Do: add more attributes
+        index += ["Number of nodes"]
+        tableData += [G.number_of_nodes()]
+        index += ["Number of edges"]
+        tableData += [G.number_of_edges()]
+        index += ["density"]
+        tableData += [nx.density(G)]
+
+        df = pd.DataFrame(tableData, index=index)
+        st.table(df)
 
 
 st.set_page_config(layout="wide")
