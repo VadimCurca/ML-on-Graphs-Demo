@@ -1,4 +1,27 @@
+import praw
 import itertools
+import networkx as nx
+
+from praw.models import MoreComments
+
+def get_graphs_indices_from_subreddit(subreddit, limit=1):
+    list = []
+    for submission in subreddit.hot(limit=limit):
+        print(submission.title)
+
+        G = nx.Graph()
+        nodes, edges = get_graph_indices_from_submission(submission, limit=100)
+
+        if(G.edges == []):
+            continue
+
+        G.add_edges_from(edges)
+        G.add_nodes_from(nodes)
+
+        print(G.number_of_nodes())
+
+        list.append(G)
+    return list
 
 def get_authors_from_comments(comment_list):
     return list(comment.author for comment in comment_list if comment.author != None)
